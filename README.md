@@ -1,19 +1,19 @@
-Paper Mario: The Thousand-Year Door: Hero Mode Demo (v1.0) by Reed
+<font size="+2"><b>Paper Mario: The Thousand-Year Door: Hero Mode Demo (v1.0) by Reed</b></font>
 
-<b>Credits<b>
+<font size="+2"><b>Credits</b></font>
 
-Reed - For not being dumb
-MuzYoshi - Title Screen Characters Art, Reed, Vivian, and Krazy Bones Skins.
-Jdaster - Battle Documentaion and for helping me understand battle functions.
-PistonMiner - REL Framework, TTYDASM, and RELLink.
-Zephiles - TTYD Practice Codes and Fast Text.
+<b>Reed</b> - For not being dumb
+<b>MuzYoshi</b> - Title Screen Characters Art, Reed, Vivian, and Krazy Bones Skins.
+<b>Jdaster</b> - Battle Documentaion and for helping me understand battle functions.
+<b>PistonMiner</b> - REL Framework, TTYDASM, and RELLink.
+<b>Zephiles</b> - TTYD Practice Codes and Fast Text.
 
-About Hero Mode
+<font size="+2"><b>About Hero Mode</b></font>
 
 A reimagined The Thousand-Year Door Story with new elements and puzzles that
 comes with a harder difficulty, badges, and twist!
 
-Setup
+<font size="+2"><b>Setup</b></font>
 
 Before you do anything, make sure you have these things:
 
@@ -28,7 +28,7 @@ The mod will not work on any other version of the game.
 
 Now that you have all of the requirements, follow these steps.
 
-Installation for Wii/Wii U:
+<font size="+2">Installation for Wii/Wii U:</font>
 
 1. Download "Hero Mode Demo v1.rar"
 2. Get "xdelta v1.1" and open up "xdeltaUI.exe"
@@ -41,7 +41,7 @@ Installation for Wii/Wii U:
 9. You can use any type of Memory Card option, Virtual or Real. Just make sure Cheats are ON.
 Enjoy :)
 
-Installation for Dolphin:
+<font size="+2">Installation for Dolphin:</font>
 
 1. Download "Hero Mode Demo v1.rar"
 2. Get "xdelta v1.1" and open up "xdeltaUI.exe"
