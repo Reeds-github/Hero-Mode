@@ -1,6 +1,6 @@
 <h2><b>Paper Mario: The Thousand-Year Door: Hero Mode Demo (v1.0) by Reed</b></font></h2>
 
-<font size="+2"><b>Credits</b></font>
+<h3><b>Credits</b></h2>
 
 <ul><li><b>Reed</b> - For not being dumb.</li>
   
@@ -12,14 +12,14 @@
 
 <li><b>Zephiles</b> - TTYD Practice Codes and Fast Text.</ul></li>
 
-<font size="+2"><b>About Hero Mode</b></font>
+<h3><b>About Hero Mode</b></h3>
 
 A reimagined The Thousand-Year Door Story with new elements and puzzles that
 comes with a harder difficulty, badges, and twist!
 
-<font size="+2"><b>Setup</b></font>
+<h2><b>Setup</b></h2>
 
-Before you do anything, make sure you have these things:
+<h1>Before you do anything, make sure you have these things:</h1>
 
 1. An UNCHANGED North American (US) Version of "The Thousand-Year Door" (MD5 of db9a997a617ee03bbc32336d6945ec02)
 2. A Softmodded Wii/Wii U that has Homebrew.
@@ -29,7 +29,7 @@ The mod will not work on any other version of the game.
 
 Now that you have all of the requirements, follow these steps.
 
-<b><font size=+2>Installation for Wii/Wii U:</font></b>
+<b><h3>Installation for Wii/Wii U:<h3></b>
 
 1. Download "Hero Mode Demo v1.rar"
 2. Get "xdelta v1.1" and open up "xdeltaUI.exe"
@@ -43,7 +43,7 @@ Now that you have all of the requirements, follow these steps.
 
 Load the game and Enjoy :)
 
-<b><font size="+2">Installation for Dolphin:</font></b>
+<b><h3>Installation for Dolphin:<h3></b>
 
 1. Download "Hero Mode Demo v1.rar"
 2. Get "xdelta v1.1" and open up "xdeltaUI.exe"
