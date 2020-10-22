@@ -21,7 +21,10 @@ comes with a harder difficulty, badges, and twist!
 
 Before you do anything, make sure you have these things:
 
-1. An UNCHANGED North American (US) Version of "The Thousand-Year Door". This needs to be a clean ISO (MD5 of db9a997a617ee03bbc32336d6945ec02).
+1. An UNCHANGED North American (US) Version of "The Thousand-Year Door". 
+
+This needs to be a clean ISO (MD5 of db9a997a617ee03bbc32336d6945ec02).
+
 2. A Softmodded Wii/Wii U that has Homebrew
 3. Get Nintendont or any Gamecube Loader that can load ISOs for the Wii/Wii U
 
@@ -61,4 +64,6 @@ Open the game and Enjoy :)
 Let me know if theres any problems, you can contact me at:
 
 Discord: Reed#6496
+
 Twitter: SSBReed
+
