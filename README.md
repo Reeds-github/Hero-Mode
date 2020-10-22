@@ -28,9 +28,6 @@ Before you do anything, make sure you have these things:
 2. A Softmodded Wii/Wii U that has Homebrew
 3. Get Nintendont or any Gamecube Loader that can load ISOs for the Wii/Wii U
 
-DO ALL of these before you do the upcoming steps
-If you have these out of the way, you may proceed 
-
 The mod will not work on any other version of the game.
 
 Now that you have all of the requirements, follow these steps.
