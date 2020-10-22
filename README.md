@@ -1,13 +1,17 @@
 <font><b>Paper Mario: The Thousand-Year Door: Hero Mode Demo (v1.0) by Reed</b></font>
 
 <font size="+2"><b>Credits</b></font>
-<ul>
-<b>Reed</b> - For not being dumb
+
+<ul><b>Reed</b> - For not being dumb
+  
 <b>MuzYoshi</b> - Title Screen Characters Art, Reed, Vivian, and Krazy Bones Skins.
+
 <b>Jdaster</b> - Battle Documentaion and for helping me understand battle functions.
+
 <b>PistonMiner</b> - REL Framework, TTYDASM, and RELLink.
-<b>Zephiles</b> - TTYD Practice Codes and Fast Text.
-</ul>
+
+<b>Zephiles</b> - TTYD Practice Codes and Fast Text.</ul>
+
 <font size="+2"><b>About Hero Mode</b></font>
 
 A reimagined The Thousand-Year Door Story with new elements and puzzles that
