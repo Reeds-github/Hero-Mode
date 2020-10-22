@@ -6,9 +6,9 @@
   
 <li><b>MuzYoshi</b> - Title Screen Characters Art, Reed, Vivian, and Krazy Bones Skins.</li>
 
-<li><b>Jdaster</b> - Battle Documentaion and for helping me understand battle functions.</li>
+<li><b>Jdaster</b> - Battle Documentation and for helping me understand battle functions.</li>
 
-<li><b>PistonMiner</b> - REL Framework, TTYDASM, and RELLink.</li>
+<li><b>PistonMiner</b> - REL Framework Documentation, TTYDASM, and RELLink.</li>
 
 <li><b>Zephiles</b> - TTYD Practice Codes and Fast Text.</ul></li>
 
