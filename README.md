@@ -1,6 +1,6 @@
 Paper Mario: The Thousand-Year Door: Hero Mode Demo (v1.0) by Reed
 
-Credits
+<b>Credits<b>
 
 Reed - For not being dumb
 MuzYoshi - Title Screen Characters Art, Reed, Vivian, and Krazy Bones Skins.
