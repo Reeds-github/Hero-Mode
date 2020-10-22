@@ -3,9 +3,13 @@
 <font size="+2"><b>Credits</b></font>
 
 <b>Reed</b> - For not being dumb
+
 <b>MuzYoshi</b> - Title Screen Characters Art, Reed, Vivian, and Krazy Bones Skins.
+
 <b>Jdaster</b> - Battle Documentaion and for helping me understand battle functions.
+
 <b>PistonMiner</b> - REL Framework, TTYDASM, and RELLink.
+
 <b>Zephiles</b> - TTYD Practice Codes and Fast Text.
 
 <font size="+2"><b>About Hero Mode</b></font>
@@ -28,7 +32,7 @@ The mod will not work on any other version of the game.
 
 Now that you have all of the requirements, follow these steps.
 
-<font size="+2">Installation for Wii/Wii U:</font>
+<b><font size=+2>Installation for Wii/Wii U:</font></b>
 
 1. Download "Hero Mode Demo v1.rar"
 2. Get "xdelta v1.1" and open up "xdeltaUI.exe"
@@ -41,7 +45,7 @@ Now that you have all of the requirements, follow these steps.
 9. You can use any type of Memory Card option, Virtual or Real. Just make sure Cheats are ON.
 Enjoy :)
 
-<font size="+2">Installation for Dolphin:</font>
+<b><font size="+2">Installation for Dolphin:</font></b>
 
 1. Download "Hero Mode Demo v1.rar"
 2. Get "xdelta v1.1" and open up "xdeltaUI.exe"
