@@ -4,13 +4,13 @@
 
 <ul><li><b>Reed</b> - For not being dumb</li>
   
-<b>MuzYoshi</b> - Title Screen Characters Art, Reed, Vivian, and Krazy Bones Skins.
+<li><b>MuzYoshi</b> - Title Screen Characters Art, Reed, Vivian, and Krazy Bones Skins.</li>
 
-<b>Jdaster</b> - Battle Documentaion and for helping me understand battle functions.
+<li><b>Jdaster</b> - Battle Documentaion and for helping me understand battle functions.</li>
 
-<b>PistonMiner</b> - REL Framework, TTYDASM, and RELLink.
+<li><b>PistonMiner</b> - REL Framework, TTYDASM, and RELLink.</li>
 
-<b>Zephiles</b> - TTYD Practice Codes and Fast Text.</ul>
+<li><b>Zephiles</b> - TTYD Practice Codes and Fast Text.</ul></li>
 
 <font size="+2"><b>About Hero Mode</b></font>
 
