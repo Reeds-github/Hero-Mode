@@ -57,6 +57,7 @@ Load the game and Enjoy :)
 
 Open the game and Enjoy :)
 
+I will say one thing, I haven't fully tested dolphin! If it crashes at any point, let me know.
 Let me know if theres any problems, you can contact me at:
 
 Discord: Reed#6496
