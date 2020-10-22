@@ -1,8 +1,8 @@
-<font><b>Paper Mario: The Thousand-Year Door: Hero Mode Demo (v1.0) by Reed</b></font>
+<h2><b>Paper Mario: The Thousand-Year Door: Hero Mode Demo (v1.0) by Reed</b></font></h2>
 
 <font size="+2"><b>Credits</b></font>
 
-<ul><li><b>Reed</b> - For not being dumb</li>
+<ul><li><b>Reed</b> - For not being dumb.</li>
   
 <li><b>MuzYoshi</b> - Title Screen Characters Art, Reed, Vivian, and Krazy Bones Skins.</li>
 
@@ -21,9 +21,9 @@ comes with a harder difficulty, badges, and twist!
 
 Before you do anything, make sure you have these things:
 
-1. An UNCHANGED North American (US) Version of "The Thousand-Year Door" (MD5 of db9a997a617ee03bbc32336d6945ec02).
-2. A Softmodded Wii/Wii U that has Homebrew
-3. Get Nintendont or any Gamecube Loader that can load ISOs for the Wii/Wii U
+1. An UNCHANGED North American (US) Version of "The Thousand-Year Door" (MD5 of db9a997a617ee03bbc32336d6945ec02)
+2. A Softmodded Wii/Wii U that has Homebrew.
+3. Get Nintendont or any Gamecube Loader that can load ISOs for the Wii/Wii U.
 
 The mod will not work on any other version of the game.
 
@@ -33,7 +33,7 @@ Now that you have all of the requirements, follow these steps.
 
 1. Download "Hero Mode Demo v1.rar"
 2. Get "xdelta v1.1" and open up "xdeltaUI.exe"
-3. For "Patch" you are going to want to find the "Hero Mode.xdelta" file 
+3. For "Patch" you are going to want to find the "Hero Mode.xdelta" file.
 4. For "Source File" you want to locate the clean ISO (MD5 of db9a997a617ee03bbc32336d6945ec02)
 5. For "Output File" select a folder you will remember and SAVE IT AS "game.iso"
 6. Put the "game.iso" in your SD/USB Device. (SD Card\Games\[Name This Folder Whatever]\game.iso)
@@ -41,7 +41,7 @@ Now that you have all of the requirements, follow these steps.
 8. On Nintendont or any GameCube ISO Loader, Make sure Cheats are on! Hero Mode won't work properly otherwise.
 9. You can use any type of Memory Card option, Virtual or Real. Just make sure Cheats are ON.
 
-Enjoy :)
+Load the game and Enjoy :)
 
 <b><font size="+2">Installation for Dolphin:</font></b>
 
