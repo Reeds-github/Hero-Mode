@@ -29,7 +29,7 @@ The mod will not work on any other version of the game.
 
 Now that you have all of the requirements, follow these steps.
 
-<b><h3>Installation for Wii/Wii U:<h3></b>
+<b><h3>Installation for Wii/Wii U:</h3></b>
 
 1. Download "Hero Mode Demo v1.rar"
 2. Get "xdelta v1.1" and open up "xdeltaUI.exe"
@@ -43,7 +43,7 @@ Now that you have all of the requirements, follow these steps.
 
 Load the game and Enjoy :)
 
-<b><h3>Installation for Dolphin:<h3></b>
+<b><h3>Installation for Dolphin:</h3></b>
 
 1. Download "Hero Mode Demo v1.rar"
 2. Get "xdelta v1.1" and open up "xdeltaUI.exe"
