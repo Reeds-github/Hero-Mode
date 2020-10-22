@@ -32,28 +32,28 @@ Now that you have all of the requirements, follow these steps.
 <b><h3>Installation for Wii/Wii U:</h3></b>
 
 1. Download "Hero Mode Demo v1.rar"
-2. Get "xdelta v1.1" and open up "xdeltaUI.exe"
-3. For "Patch" you are going to want to find the "Hero Mode.xdelta" file.
+2. Get "xdelta v1.1" and open up "<b>xdeltaUI.exe</b>"
+3. For "Patch" you are going to want to find the "<b>Hero Mode.xdelta</b>" file.
 4. For "Source File" you want to locate the clean ISO (MD5 of db9a997a617ee03bbc32336d6945ec02)
-5. For "Output File" select a folder you will remember and SAVE IT AS "game.iso"
-6. Put the "game.iso" in your SD/USB Device. (SD Card\Games\[Name This Folder Whatever]\game.iso)
-7. Place the .GCT File that's in the "Hero Mode Demo v1.rar" in (SD Card\Codes\G8ME02.gct)
-8. On Nintendont or any GameCube ISO Loader, Make sure Cheats are on! Hero Mode won't work properly otherwise.
-9. You can use any type of Memory Card option, Virtual or Real. Just make sure Cheats are ON.
+5. For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>"
+6. Put the "<b>game.iso</b>" in your SD/USB Device. (<b>SD Card\Games\[Name This Folder Whatever]\game.iso</b>)
+7. Place the <b>.GCT</b> File that's in the "Hero Mode Demo v1.rar" in (<b>SD Card\Codes\G8ME02.gct</b>)
+8. On Nintendont or any GameCube ISO Loader, Make sure <b>CHEATS ARE ON</b>. Hero Mode won't work properly otherwise.
+9. You can use any type of Memory Card option, Virtual or Real. Just make sure <b>Cheats are ON</b>.
 
 Load the game and Enjoy :)
 
 <b><h3>Installation for Dolphin:</h3></b>
 
 1. Download "Hero Mode Demo v1.rar"
-2. Get "xdelta v1.1" and open up "xdeltaUI.exe"
-3. For "Patch" you are going to want to find the "Hero Mode.xdelta" file 
+2. Get "xdelta v1.1" and open up "<b>xdeltaUI.exe</b>"
+3. For "Patch" you are going to want to find the "<b>Hero Mode.xdelta</b>" file.
 4. For "Source File" you want to locate the clean ISO (MD5 of db9a997a617ee03bbc32336d6945ec02)
-5. For "Output File" select a folder you will remember and SAVE IT AS "game.iso"
-6. Go to "Settings > Paths" and press "Add" find the "game.iso" after that, it should appear on the home screen.
-7. Right Click the game and Press "Properties" and then go to the "Gecko Codes" Tab
+5. For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>"
+6. Go to "Settings > Paths" and press "<b>Add</b>" find the "<b>game.iso</b>" after that, it should appear on the home screen.
+7. Right Click the game and Press "<b>Properties</b>" and then go to the "<b>Gecko Codes</b>" Tab
 8. Press "Add" or "Add New Code". The text is different depending on what Dolphin you have.
-9. Open the "Hero Code.txt" file, then Copy & Paste everything from there into Dolphin's Cheat Code Editor. Make sure it's checked.
+9. Open the "<b>Hero Code.txt</b>" file, then Copy & Paste everything from there into Dolphin's <b>Cheat Code Editor</b>. Make sure it's checked.
 
 Open the game and Enjoy :)
 
