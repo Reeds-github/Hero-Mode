@@ -6,11 +6,15 @@
   
 <li><b>MuzYoshi</b> - Title Screen Characters Art, Reed, Vivian, and Krazy Bones Skins.</li>
 
+<li><b>StarmanOmega</b> - For the badge templates and making a few badges for me.</li>
+
 <li><b>Jdaster</b> - Battle Documentation and for helping me understand battle functions.</li>
 
 <li><b>PistonMiner</b> - REL Framework Documentation, TTYDASM, and RELLink.</li>
 
 <li><b>Zephiles</b> - TTYD Practice Codes and Fast Text.</ul></li>
+
+<li><b>Trey & Kappy</b> - Play testing for me</li>
 
 <h3><b>About Hero Mode</b></h3>
 
