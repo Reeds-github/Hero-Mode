@@ -12,9 +12,9 @@
 
 <li><b>PistonMiner</b> - REL Framework Documentation, TTYDASM, and RELLink.</li>
 
-<li><b>Zephiles</b> - TTYD Practice Codes and Fast Text.</ul></li>
+<li><b>Zephiles</b> - TTYD Practice Codes and Fast Text.</li>
 
-<li><b>Trey & Kappy</b> - Play testing for me</li>
+<li><b>Trey & Kappy</b> - Play testing for me</li></ul>
 
 <h3><b>About Hero Mode</b></h3>
 
