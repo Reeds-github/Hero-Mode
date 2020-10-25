@@ -63,7 +63,9 @@ Open the game and Enjoy :)
 
 I will say one thing, I haven't fully tested dolphin! If it crashes at any point, let me know.
 
-Let me know if theres any problems, you can contact me at:
+Let me know if theres any problems with the Demo in general, I'll patch it up if it's serious
+
+you can contact me at:
 
 Discord: Reed#6496
 
