@@ -37,12 +37,12 @@ Now that you have all of the requirements, follow these steps.
 
 1. Download "Hero Mode Demo v1.rar"
 2. Get "xdelta v1.1" and open up "<b>xdeltaUI.exe</b>"
-3. For "Patch" you are going to want to find the "<b>Hero Mode.xdelta</b>" file.
+3. For "Patch" you are going to want to find the "<b>game.xdelta</b>" file.
 4. For "Source File" you want to locate the clean ISO (MD5 of db9a997a617ee03bbc32336d6945ec02)
 5. For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part
 6. Put the "<b>game.iso</b>" in your SD/USB Device. (SD Card\Games\ [Name This Folder Whatever] \game.iso) 
 7. Place the <b>.GCT</b> File that's in the "Hero Mode Demo v1.rar" file in (SD Card\Codes\G8ME02.gct)
-8. On Nintendont or any GameCube ISO Loader, Make sure <b>CHEATS ARE ON</b>. Hero Mode won't work properly otherwise.
+8. On Nintendont, Make sure <b>CHEATS ARE ON</b>. Hero Mode won't work properly otherwise.
 9. You can use any type of Memory Card option, Virtual or Real. Just make sure <b>Cheats are ON</b>.
 
 Load the game and Enjoy :)
@@ -51,7 +51,7 @@ Load the game and Enjoy :)
 
 1. Download "Hero Mode Demo v1.rar"
 2. Get "xdelta v1.1" and open up "<b>xdeltaUI.exe</b>"
-3. For "Patch" you are going to want to find the "<b>Hero Mode.xdelta</b>" file.
+3. For "Patch" you are going to want to find the "<b>game.xdelta</b>" file.
 4. For "Source File" you want to locate the clean ISO (MD5 of db9a997a617ee03bbc32336d6945ec02)
 5. For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>"
 6. Go to "Settings > Paths" and press "<b>Add</b>" find the "<b>game.iso</b>" after that, it should appear on the home screen.
