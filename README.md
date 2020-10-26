@@ -26,7 +26,7 @@ comes with a harder difficulty, badges, and twist!
 - A North American (US) Version of "The Thousand-Year Door" (md5 of db9a997a617ee03bbc32336d6945ec02)
 - A Softmodded Wii/Wii U that has Homebrew.
 - Get Nintendont so you can load the ISO for the Wii/Wii U.
-- Get Dolphin 5.0-10411 If you wish to play on Emulator (If it asks to update, refuse to update it.)
+- Get Dolphin 5.0-12749 If you wish to play on Emulator (If it asks to update, refuse to update it.)
 
 The mod will not work on any other version of the game.
 
@@ -51,7 +51,9 @@ Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up say
 9. You can use any type of Memory Card option, Virtual or Real. Just make sure <b>Cheats are ON</b>.
 
 NINTENDONT HAS A BUG WHERE THE FIRST TIME YOU BOOT UP HERO MODE
+
 IT DOESN'T LOAD THE GCT! SO LOAD HERO MODE, MAKE A SAVE FILE AND RELOAD
+
 HERO MODE THROUGH THE NINTENDONT LOADER!
 
 Load the game and Enjoy :)
