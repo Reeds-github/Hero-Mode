@@ -23,7 +23,7 @@ comes with a harder difficulty, badges, and twist!
 
 <h1>Before you do anything, make sure you have these things:</h1>
 
-- A SCRUBBED North American (US) Version of "The Thousand-Year Door" (Check the ZIM.txt)
+- A SCRUBBED North American (US) Version of "The Thousand-Year Door" (Check the VIM.txt)
 - A Softmodded Wii/Wii U that has Homebrew.
 - Get Nintendont so you can load the ISO for the Wii/Wii U.
 - Get Dolphin 5.0-10411 If you wish to play on Emulator (If it asks to update, refuse to update it.)
@@ -37,7 +37,7 @@ Now that you have all of the requirements, follow these steps.
 1. Download "Hero Mode Demo v1.rar"
 2. Get "xdelta v1.1" and open up "<b>xdeltaUI.exe</b>"
 3. For "Patch" you are going to want to find the "<b>game.xdelta</b>" file.
-4. For "Source File" you want to locate the ISO (Check the ZIM.txt)
+4. For "Source File" you want to locate the ISO (Check the VIM.txt)
 5. For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part
 
 once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
