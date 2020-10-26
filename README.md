@@ -50,6 +50,10 @@ Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up say
 8. On Nintendont, Make sure <b>CHEATS ARE ON</b>, Hero Mode won't work properly otherwise.
 9. You can use any type of Memory Card option, Virtual or Real. Just make sure <b>Cheats are ON</b>.
 
+NINTENDONT HAS A BUG WHERE THE FIRST TIME YOU BOOT UP HERO MODE
+IT DOESN'T LOAD THE GCT! SO LOAD HERO MODE, MAKE A SAVE FILE AND RELOAD
+HERO MODE THROUGH THE NINTENDONT LOADER!
+
 Load the game and Enjoy :)
 
 <b><h3>Installation for Dolphin:</h3></b>
