@@ -43,7 +43,10 @@ Now that you have all of the requirements, follow these steps.
 once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
 
 6. Put the "<b>game.iso</b>" in your SD/USB Device. (SD Card\Games\ [Name This Folder Whatever] \game.iso) 
-7. Place the <b>G8ME02.GCT</b> File that's in the "Hero Mode Demo v1.rar" file in (SD Card\Codes\G8ME02.gct) <b>DO NOT CHANGE THE NUMBER!</b>
+7. Place the <b>G8ME02.GCT</b> File that's in the "Hero Mode Demo v1.rar" file in (SD Card\Codes\G8ME02.gct) 
+
+<b>DO NOT CHANGE THE NUMBER!</b>
+
 8. On Nintendont, Make sure <b>CHEATS ARE ON</b>, Hero Mode won't work properly otherwise.
 9. You can use any type of Memory Card option, Virtual or Real. Just make sure <b>Cheats are ON</b>.
 
