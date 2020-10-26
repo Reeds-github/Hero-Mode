@@ -1,4 +1,4 @@
-<h2><b>Paper Mario: The Thousand-Year Door: Hero Mode Demo (v1.0) by Reed</b></font></h2>
+<h2><b>Paper Mario: The Thousand-Year Door: Hero Mode Demo (v1.1) by Reed</b></font></h2>
 
 <h3><b>Credits</b></h2>
 
