@@ -21,8 +21,6 @@
 A reimagined The Thousand-Year Door Story with new elements and puzzles that
 comes with a harder difficulty, badges, and twist!
 
-<h2><b>Setup</b></h2>
-
 <h1>Before you do anything, make sure you have these things:</h1>
 
 - A SCRUBBED North American (US) Version of "The Thousand-Year Door" (Check the ZIM.txt)
