@@ -63,8 +63,8 @@ once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up say
 
 6. Go to "Config > Paths" and press "<b>Add</b>" to find the folder that the "<b>game.iso</b>" is in, it should appear on the home screen.
 7. Right Click the game and Press "<b>Properties</b>" and then go to the "<b>Gecko Codes</b>" Tab and Press "Add New Code"
-8. Open the "<b>Hero Code.txt</b>" file, then <b>Copy & Paste</b> everything from there into Dolphin's <b>Cheat Code Editor</b>.
-9. Make sure it's checked AFTER putting it in, the code is important for Hero Mode to work properly.
+8. Open the "<b>Hero Code.txt</b>" file, then <b>Copy & Paste</b> everything from there into Dolphin's <b>Cheat Code Editor</b> and name it "Hero Mode"
+9. Make sure you NAMED THE CODE something! Make sure it's checked AFTER putting it in! The code is important for Hero Mode to work properly.
 
 Open the game and Enjoy :)
 
