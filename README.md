@@ -35,7 +35,7 @@ Now that you have all of the requirements, follow these steps.
 <b><h3>Installation for Wii/Wii U:</h3></b>
 
 1. Download "Hero Mode Demo v1.rar"
-2. Get "xdelta v1.1" and open up "<b>xdeltaUI.exe</b>"
+2. Open up "<b>xdeltaUI.exe</b>"
 3. For "Patch" you are going to want to find the "<b>game.xdelta</b>" file.
 4. For "Source File" you want to locate the ISO (Check the VIM.txt)
 5. For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part
@@ -52,7 +52,7 @@ Load the game and Enjoy :)
 <b><h3>Installation for Dolphin:</h3></b>
 
 1. Download "Hero Mode Demo v1.rar"
-2. Get "xdelta v1.1" and open up "<b>xdeltaUI.exe</b>"
+2. Open up "<b>xdeltaUI.exe</b>"
 3. For "Patch" you are going to want to find the "<b>game.xdelta</b>" file.
 4. For "Source File" you want to locate the ISO (Check the ZIM.txt)
 5. For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part
