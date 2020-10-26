@@ -40,12 +40,12 @@ Now that you have all of the requirements, follow these steps.
 4. For "Source File" you want to locate the ISO (md5 of db9a997a617ee03bbc32336d6945ec02)
 5. For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part
 
-once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
+Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
 
 6. Put the "<b>game.iso</b>" in your SD/USB Device. (SD Card\Games\ [Name This Folder Whatever] \game.iso) 
 7. Place the <b>G8ME02.GCT</b> File that's in the "Hero Mode Demo v1.rar" file in (SD Card\Codes\G8ME02.gct) 
 
-<b>DO NOT CHANGE THE NUMBER!</b>
+<b>DO NOT CHANGE THE NUMBER OF THE GCT!</b>
 
 8. On Nintendont, Make sure <b>CHEATS ARE ON</b>, Hero Mode won't work properly otherwise.
 9. You can use any type of Memory Card option, Virtual or Real. Just make sure <b>Cheats are ON</b>.
@@ -60,7 +60,7 @@ Load the game and Enjoy :)
 4. For "Source File" you want to locate the ISO (md5 of db9a997a617ee03bbc32336d6945ec02)
 5. For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part
 
-once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
+Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
 
 6. Go to "Config > Paths" and press "<b>Add</b>" to find the folder that the "<b>game.iso</b>" is in, it should appear on the home screen.
 7. Right Click the game and Press "<b>Properties</b>" and then go to the "<b>Gecko Codes</b>" Tab and Press "Add New Code"
