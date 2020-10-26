@@ -77,6 +77,8 @@ Discord: Reed#6496
 Twitter: SSBReed
 
 Known Issues:
+
 Paragoomba and Koopas (Not paratroop) act differently in Hooktail Castle
+
 The "Pokey" in the Pit doesn't act accordingly 
 
