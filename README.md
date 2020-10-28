@@ -42,8 +42,8 @@ Now that you have all of the requirements, follow these steps.
 
 Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
 
-6. Put the "<b>game.iso</b>" in your SD/USB Device. (SD Card\Games\ [Name This Folder Whatever] \game.iso) 
-7. Place the <b>G8ME02.GCT</b> File that's in the "Hero Mode Demo v1.rar" file in (SD Card\Codes\G8ME02.gct) 
+6. Put the "<b>game.iso</b>" in your SD/USB Device. (<b>SD Card\Games\ [Name This Folder Whatever] \game.iso</b>) 
+7. Place the <b>G8ME02.GCT</b> File that's in the "Hero Mode Demo v1.rar" file in (<b>SD Card\Codes\G8ME02.gct</b>) 
 
 <b>DO NOT CHANGE THE NUMBER OF THE GCT!</b>
 
