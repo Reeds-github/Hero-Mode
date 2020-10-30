@@ -14,7 +14,8 @@
 
 <li><b>Zephiles</b> - TTYD Practice Codes and Fast Text.</li>
 
-<li><b>Trey, Arceus, Muz, and Kappy</b> - Play testing for me</li></ul>
+<li><b>Trey, Arceus, Muz, and Kappy</b> - Playtesting for me</li></ul>
+
 
 <h3><b>About Hero Mode</b></h3>
 
