@@ -90,5 +90,8 @@ Twitter: SSBReed
 
 Paragoomba and Koopas (Not paratroopa) act differently in Hooktail Castle
 
-The "Pokey" in the Pit doesn't act accordingly 
+Power Rush P goes away after going too far in the castle
+
+
+
 
