@@ -6,7 +6,7 @@
   
 <li><b>MuzYoshi</b> - Title Screen Characters Art, Reed, Vivian, and Krazy Bones Skins.</li>
 
-<li><b>StarmanOmega</b> - For the badge imgage templates and making a few badge images for me.</li>
+<li><b>StarmanOmega</b> - For the badge icon templates and making a few badge icons for me.</li>
 
 <li><b>Jdaster</b> - Battle Documentation and for helping me understand battle functions.</li>
 
