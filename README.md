@@ -35,7 +35,7 @@ Now that you have all of the requirements, follow these steps.
 
 <b><h3>Installation for Wii/Wii U:</h3></b>
 
-1. Download "Hero Mode Demo v2.rar"
+1. Download "Hero Mode Demo.zip"
 2. Open up "<b>xdeltaUI.exe</b>"
 3. For "Patch" you're going to want to find the "<b>game.xdelta</b>" file.
 4. For "Source File" you want to locate the ISO (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)
@@ -61,7 +61,7 @@ Load the game and Enjoy :)
 
 <b><h3>Installation for Dolphin:</h3></b>
 
-1. Download "Hero Mode Demo v2.rar"
+1. Download "Hero Mode Demo.zip"
 2. Open up "<b>xdeltaUI.exe</b>"
 3. For "Patch" you are going to want to find the "<b>game.xdelta</b>" file.
 4. For "Source File" you want to locate the ISO (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)
@@ -69,7 +69,7 @@ Load the game and Enjoy :)
 
 Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
 
-6. Go to "Config > Paths" and press "<b>Add</b>" to find the folder that the "<b>game.iso</b>" is in, it should appear on the home screen.
+6. Go to "Config > Paths" on the top of Dolphin and press "<b>Add</b>" to find the folder that the "<b>game.iso</b>" is in, it should appear on the home screen.
 7. Right Click the game and Press "<b>Properties</b>" and then go to the "<b>Gecko Codes</b>" Tab and Press "Add New Code"
 8. Open the "<b>Hero Code.txt</b>" file, then <b>Copy & Paste</b> everything from there into Dolphin's <b>Cheat Code Editor</b> and name it "Hero Mode"
 9. Make sure you NAMED THE CODE something! Make sure it's checked AFTER putting it in! The code is important for Hero Mode to work properly.
@@ -91,7 +91,3 @@ Twitter: SSBReed
 Paragoomba and Koopas (Not paratroopa) act differently in Hooktail Castle
 
 Power Rush P goes away after going too far in the castle
-
-
-
-
