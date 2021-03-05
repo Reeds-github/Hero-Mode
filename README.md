@@ -14,6 +14,8 @@
 
 <li><b>Zephiles</b> - TTYD Practice Codes and Fast Text.</li>
 
+<li><b>Ralf</b> - Airplane and Field Camera Code</li>
+
 <li><b>Trey, Arceus, Muz, and Kappy</b> - Playtesting for me</li></ul>
 
 
