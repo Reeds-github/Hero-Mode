@@ -29,7 +29,7 @@ comes with a harder difficulty, badges, and twist!
 <h1>Before you do anything, make sure you have these things:</h1>
 
 <li>A North American (US) Version of "<b>The Thousand-Year Door</b>" (<b>with a md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
-<li>A Softmodded Wii/Wii U that has Homebrew with Nintendont (For console)</li>
+<li>A Softmodded Wii/Wii U that has Homebrew with Nintendont. (For console)</li>
 <li>Any version of a Dolphin Emulator. (For PC)</li>
 <h1></h1>
 
