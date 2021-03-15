@@ -51,7 +51,6 @@ Now that you have all of the requirements, follow these steps.
 
 <li>Put the "<b>game.iso</b>" in your SD/USB Device. (<b>SD Card\Games\[<b>Name This Folder Whatever</b>]\game.iso</b>)</li>
 <li>On Nintendont, make sure <b>CHEATS ARE OFF.</b></li>
-<li>You can use any type of Memory Card option, Virtual or Real.</li>
 
 <h3>Load the mod and enjoy :)</h3>
 
