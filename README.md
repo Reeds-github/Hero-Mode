@@ -41,33 +41,33 @@ Now that you have all of the requirements, follow these steps.
 
 <b><h1>Installation for Wii/Wii U:</h1></b>
 
-1. Download "Hero Mode v3 Demo.zip"
-2. Open up "<b>xdeltaUI.exe</b>"
-3. For "Patch" you're going to want to find the "<b>Demov3.xdelta</b>" file.
-4. For "Source File" you want to locate the .ISO (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)
-5. For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part
+<li>Download "Hero Mode v3 Demo.zip"</li>
+<li>Open up "<b>xdeltaUI.exe</b>"</li>
+<li>For "Patch" you're going to want to find the "<b>Demov3.xdelta</b>" file.</li>
+<li>For "Source File" you want to locate the .ISO (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
+<li>For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part</li>
 
 Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
 
-6. Put the "<b>game.iso</b>" in your SD/USB Device. (<b>SD Card\Games\[<b>Name This Folder Whatever</b>]\game.iso</b>) 
-7. On Nintendont, Make sure <b>CHEATS ARE OFF.</b>
-9. You can use any type of Memory Card option, Virtual or Real.
+<li>Put the "<b>game.iso</b>" in your SD/USB Device. (<b>SD Card\Games\[<b>Name This Folder Whatever</b>]\game.iso</b>)</li>
+<li>On Nintendont, Make sure <b>CHEATS ARE OFF.</b></li>
+<li>You can use any type of Memory Card option, Virtual or Real.</li>
 
-Load the mod and Enjoy :)
+Load the mod and enjoy :)
 
 <b><h1>Installation for Dolphin:</h1></b>
 
-1. Download "Hero Mode v3 Demo.zip"
-2. Open up "<b>xdeltaUI.exe</b>"
-3. For "Patch" you're going to want to find the "<b>Demov3.xdelta</b>" file.
-4. For "Source File" you want to locate the .ISO (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)
-5. For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part
+<li>Download "Hero Mode v3 Demo.zip"</li>
+<li>Open up "<b>xdeltaUI.exe</b>"</li>
+<li>For "Patch" you're going to want to find the "<b>Demov3.xdelta</b>" file.</li>
+<li>For "Source File" you want to locate the .ISO (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
+<li>For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part</li>
 
 Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
 
-6. On Dolphin, Make sure <b>CHEATS ARE OFF.</b>
+<li>On Dolphin, Make sure <b>CHEATS ARE OFF.</b></li>
 
-Open the game and Enjoy :)
+Load the mod and enjoy :)
 <h1></h1>
 If you run into any problems, you can contact me at:
 
