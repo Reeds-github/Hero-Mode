@@ -34,7 +34,7 @@ comes with a harder difficulty, badges, and twist!
 - Get Dolphin Emulator
 <h1></h1>
 This mod will not work on any other version of the game and will not
-work with any other time of mod.
+work with any other type of mod.
 
 Now that you have all of the requirements, follow these steps.
 
