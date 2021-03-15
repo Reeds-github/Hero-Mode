@@ -32,10 +32,10 @@ comes with a harder difficulty, badges, and twist!
 - A Softmodded Wii/Wii U that has Homebrew.
 - Get Nintendont Emulator (For Console)
 - Get Dolphin Emulator (For PC)
-<h1></h1>
+
 This mod will not work on any other version of the game and will not
 work with any other of mod. (Sadly)
-
+<h1></h1>
 Now that you have all of the requirements, follow these steps.
 
 <b><h1>Installation for Wii/Wii U:</h1></b>
@@ -45,7 +45,6 @@ Now that you have all of the requirements, follow these steps.
 3. For "Patch" you're going to want to find the "<b>Demov3.xdelta</b>" file.
 4. For "Source File" you want to locate the .ISO (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)
 5. For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part
-
 
 Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
 
@@ -62,7 +61,6 @@ Load the mod and Enjoy :)
 3. For "Patch" you're going to want to find the "<b>Demov3.xdelta</b>" file.
 4. For "Source File" you want to locate the .ISO (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)
 5. For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part
-
 
 Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
 
