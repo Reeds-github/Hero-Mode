@@ -32,10 +32,11 @@ comes with a harder difficulty, badges, and twist!
 <li>A Softmodded Wii/Wii U that has Homebrew.</li>
 <li>Get Nintendont Emulator (For Console)</li>
 <li>Get Dolphin Emulator (For PC)</li>
+<h1></h1>
 
 This mod will not work on any other version of the game and will not
 work with any other of mod. (Sadly)
-<h1></h1>
+
 Now that you have all of the requirements, follow these steps.
 
 <b><h1>Installation for Wii/Wii U:</h1></b>
