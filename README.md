@@ -30,11 +30,11 @@ comes with a harder difficulty, badges, and twist!
 
 - A North American (US) Version of "The Thousand-Year Door" (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)
 - A Softmodded Wii/Wii U that has Homebrew.
-- Get Nintendont Emulator
-- Get Dolphin Emulator
+- Get Nintendont Emulator (For Console)
+- Get Dolphin Emulator (For PC)
 <h1></h1>
 This mod will not work on any other version of the game and will not
-work with any other type of mod.
+work with any other of mod. (Sadly)
 
 Now that you have all of the requirements, follow these steps.
 
@@ -45,9 +45,9 @@ Now that you have all of the requirements, follow these steps.
 3. For "Patch" you're going to want to find the "<b>Demov3.xdelta</b>" file.
 4. For "Source File" you want to locate the .ISO (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)
 5. For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part
-
+<h1></h1>
 Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
-
+<h1></h1>
 6. Put the "<b>game.iso</b>" in your SD/USB Device. (<b>SD Card\Games\[<b>Name This Folder Whatever</b>]\game.iso</b>) 
 7. On Nintendont, Make sure <b>CHEATS ARE OFF.</b>
 9. You can use any type of Memory Card option, Virtual or Real.
@@ -61,9 +61,9 @@ Load the mod and Enjoy :)
 3. For "Patch" you're going to want to find the "<b>Demov3.xdelta</b>" file.
 4. For "Source File" you want to locate the .ISO (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)
 5. For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part
-
+<h1></h1>
 Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
-
+<h1></h1>
 6. On Dolphin, Make sure <b>CHEATS ARE OFF.</b>
 
 Open the game and Enjoy :)
