@@ -28,7 +28,7 @@ comes with a harder difficulty, badges, and twist!
 
 <h1>Before you do anything, make sure you have these things:</h1>
 
-<li>A North American (US) Version of "The Thousand-Year Door" (<b>with a md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
+<li>A North American Version of "The Thousand-Year Door" (<b>with a md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
 <li>A Softmodded Wii/Wii U that has Homebrew.</li>
 <li>Get Nintendont Emulator (For Console)</li>
 <li>Get Dolphin Emulator (For PC)</li>
@@ -47,7 +47,7 @@ Now that you have all of the requirements, follow these steps.
 <li>Download "Hero Mode v3 Demo.zip"</li>
 <li>Open up "<b>xdeltaUI.exe</b>"</li>
 <li>For "Patch" you're going to want to find the "<b>Demov3.xdelta</b>" file.</li>
-<li>For "Source File" you want to locate the .ISO (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
+<li>For "Source File" you want to locate the .ISO (<b>with the md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
 <li>For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part</li>
 
 <h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.</h3>
@@ -62,7 +62,7 @@ Now that you have all of the requirements, follow these steps.
 <li>Download "Hero Mode v3 Demo.zip"</li>
 <li>Open up "<b>xdeltaUI.exe</b>"</li>
 <li>For "Patch" you're going to want to find the "<b>Demov3.xdelta</b>" file.</li>
-<li>For "Source File" you want to locate the .ISO (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
+<li>For "Source File" you want to locate the .ISO (<b>with the md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
 <li>For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part</li>
 
 <h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.</h3>
