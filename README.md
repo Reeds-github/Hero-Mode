@@ -68,9 +68,9 @@ Load the mod and enjoy :)
 <li>Put the "<b>game.iso</b>" where you will remember it.
 <li>On Dolphin, make sure <b>CHEATS ARE OFF.</b></li>
 
-Load the mod and enjoy :)
+<h3>Load the mod and enjoy :)<h3>
 <h1></h1>
-If you run into any problems, you can contact me at:
+<h3><b>Contact Information</b></h2>
 
 <li>Discord: Reed#6496 (or join my discord https://discord.gg/t8NXUUD)</li>
 
