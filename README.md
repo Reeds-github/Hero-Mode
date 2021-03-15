@@ -68,7 +68,7 @@ Load the mod and enjoy :)
 <li>Put the "<b>game.iso</b>" where you will remember it.
 <li>On Dolphin, make sure <b>CHEATS ARE OFF.</b></li>
 
-<h3>Load the mod and enjoy :)<h3>
+<h3>Load the mod and enjoy :)</h3>
 <h1></h1>
 <h3><b>Contact Information</b></h2>
 
