@@ -75,7 +75,7 @@ Now that you have all of the requirements, follow these steps.
 
 <li>Discord: Reed#6496 (or join my discord https://discord.gg/t8NXUUD)</li>
 
-<li>Twitter: Reed_QT (or follow me https://twitter.com/Reed_QT)</li>
+<li>Twitter: Reed_QT (follow me https://twitter.com/Reed_QT)</li>
 
 <h3><b>Known Issues:</h3></b>
 None
