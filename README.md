@@ -47,7 +47,7 @@ Now that you have all of the requirements, follow these steps.
 <li>For "Source File" you want to locate the .ISO (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
 <li>For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part</li>
 
-Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
+-Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
 
 <li>Put the "<b>game.iso</b>" in your SD/USB Device. (<b>SD Card\Games\[<b>Name This Folder Whatever</b>]\game.iso</b>)</li>
 <li>On Nintendont, Make sure <b>CHEATS ARE OFF.</b></li>
@@ -63,7 +63,7 @@ Load the mod and enjoy :)
 <li>For "Source File" you want to locate the .ISO (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
 <li>For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part</li>
 
-Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
+-Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
 
 <li>On Dolphin, Make sure <b>CHEATS ARE OFF.</b></li>
 
