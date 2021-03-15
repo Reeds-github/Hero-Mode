@@ -63,7 +63,7 @@ Load the mod and enjoy :)
 <li>For "Source File" you want to locate the .ISO (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
 <li>For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part</li>
 
-- Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
+<h2>Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.</h2>
 
 <li>Put the "<b>game.iso</b>" where you will remember it.
 <li>On Dolphin, make sure <b>CHEATS ARE OFF.</b></li>
@@ -74,7 +74,7 @@ Load the mod and enjoy :)
 
 <li>Discord: Reed#6496 (or join my discord https://discord.gg/t8NXUUD)</li>
 
-<li>Twitter: Reed_QT </li>
+<li>Twitter: Reed_QT (or follow me https://twitter.com/Reed_QT)</li>
 
 <h3><b>Known Issues:</h3></b>
 None
