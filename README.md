@@ -46,6 +46,7 @@ Now that you have all of the requirements, follow these steps.
 4. For "Source File" you want to locate the .ISO (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)
 5. For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part
 
+
 Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
 
 6. Put the "<b>game.iso</b>" in your SD/USB Device. (<b>SD Card\Games\[<b>Name This Folder Whatever</b>]\game.iso</b>) 
@@ -61,6 +62,7 @@ Load the mod and Enjoy :)
 3. For "Patch" you're going to want to find the "<b>Demov3.xdelta</b>" file.
 4. For "Source File" you want to locate the .ISO (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)
 5. For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>" Don't forget the "<b>.iso</b>" part
+
 
 Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
 
