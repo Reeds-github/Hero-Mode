@@ -50,7 +50,7 @@ Now that you have all of the requirements, follow these steps.
 - Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
 
 <li>Put the "<b>game.iso</b>" in your SD/USB Device. (<b>SD Card\Games\[<b>Name This Folder Whatever</b>]\game.iso</b>)</li>
-<li>On Nintendont, Make sure <b>CHEATS ARE OFF.</b></li>
+<li>On Nintendont, make sure <b>CHEATS ARE OFF.</b></li>
 <li>You can use any type of Memory Card option, Virtual or Real.</li>
 
 Load the mod and enjoy :)
@@ -65,7 +65,8 @@ Load the mod and enjoy :)
 
 - Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up saying otherwise.
 
-<li>On Dolphin, Make sure <b>CHEATS ARE OFF.</b></li>
+<li>Put the "<b>game.iso</b>" where you will remember it.
+<li>On Dolphin, make sure <b>CHEATS ARE OFF.</b></li>
 
 Load the mod and enjoy :)
 <h1></h1>
