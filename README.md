@@ -31,8 +31,8 @@ comes with a harder difficulty, badges, and twist!
 - A North American (US) Version of "The Thousand-Year Door" (<b>md5 of db9a997a617ee03bbc32336d6945ec02</b>)
 - A Softmodded Wii/Wii U that has Homebrew.
 - Get Nintendont Emulator
-- Get Dolphin Emulator
-<h1></h1>
+<h1>- Get Dolphin Emulator</h1>
+
 This mod will not work on any other version of the game and will not
 work with any other time of mod.
 
@@ -66,7 +66,7 @@ Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up say
 
 6. On Dolphin, Make sure <b>CHEATS ARE OFF.</b>
 
-Open the game and Enjoy :)
+<h1>Open the game and Enjoy :)</h1>
 
 If you run into any problems, you can contact me at:
 
