@@ -38,8 +38,8 @@ work with any other of mod. (Sadly)
 
 Now that you have all of the requirements, follow these steps.
 
-<b><h3>Installation for Wii/Wii U:</h3></b>
-<h1></h1>
+<b><h1>Installation for Wii/Wii U:</h1></b>
+
 1. Download "Hero Mode v3 Demo.zip"
 2. Open up "<b>xdeltaUI.exe</b>"
 3. For "Patch" you're going to want to find the "<b>Demov3.xdelta</b>" file.
@@ -54,8 +54,8 @@ Once you press "patch" DO NOT TOUCH ANYTHING and wait for a window to pop up say
 
 Load the mod and Enjoy :)
 
-<b><h3>Installation for Dolphin:</h3></b>
-<h1></h1>
+<b><h1>Installation for Dolphin:</h1></b>
+
 1. Download "Hero Mode v3 Demo.zip"
 2. Open up "<b>xdeltaUI.exe</b>"
 3. For "Patch" you're going to want to find the "<b>Demov3.xdelta</b>" file.
