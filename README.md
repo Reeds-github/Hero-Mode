@@ -72,9 +72,9 @@ Load the mod and enjoy :)
 <h1></h1>
 If you run into any problems, you can contact me at:
 
-Discord: Reed#6496 (or join my discord https://discord.gg/t8NXUUD)
+<li>Discord: Reed#6496 (or join my discord https://discord.gg/t8NXUUD)</li>
 
-Twitter: Reed_QT 
+<li>Twitter: Reed_QT </li>
 
 <h3><b>Known Issues:</h3></b>
 None
