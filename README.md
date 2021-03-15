@@ -9,7 +9,7 @@ comes with a harder difficulty, badges, and twist!
 
 <ul><li><b>Reed</b> - Battle changes, Overworld changes, Text changes, Badge changes, Item changes, Remixed music, Character Model changes, UI changes, Animation, Enemy patterns, Title Screen Logo, Help me.</li>
   
-<li><b>JaThePlaye</b> - Battle changes, Extending REL size.</li>
+<li><b>JaThePlayer</b> - Battle changes, Extending REL size.</li>
 
 <li><b>Armaggedun, Crumple, and Pixelvideos</b> - Bangers aka Music</li>
   
