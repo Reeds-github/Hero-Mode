@@ -34,7 +34,7 @@ comes with a harder difficulty, badges, and twist!
 <li>Get Dolphin Emulator (For PC)</li>
 <h1></h1>
 
-Note: Hero Mode can work on the Gamecube's original hardware but
+<b>Note</b>: Hero Mode can work on the Gamecube's original hardware but
 I won't be covering on how to do that.
 
 This mod will not work on any other version of the game and will not
