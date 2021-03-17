@@ -5,6 +5,9 @@
 A reimagined The Thousand-Year Door Story with new elements and puzzles that
 comes with a harder difficulty, badges, and twist!
 
+Note: This mod is intended for "pro players" but can also be played
+by "casual players." TLDR: You don't need to superguard to win.
+
 <h3><b>Credits</b></h2>
 
 <ul><li><b>Reed</b> - Battle changes, Overworld changes, Text changes, Badge changes, Badge Icons, Item changes, Music, Character Model changes, UI changes, Animation changes, Enemy patterns, Title Screen Logo, Help me.</li>
