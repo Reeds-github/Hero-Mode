@@ -76,11 +76,11 @@ Now that you have all of the requirements, follow these steps.
 
 <h3>Load the mod and enjoy :)</h3>
 <h1></h1>
-<h3><b>Contact Information</b></h2>
+<h3><b>Need help? Contact Information</b></h2>
 
-<li>Discord: Reed#6496 (or join my discord https://discord.gg/t8NXUUD)</li>
+<li>Discord: <b>Reed#6496</b> (or join my discord https://discord.gg/t8NXUUD)</li>
 
-<li>Twitter: Reed_QT (follow me https://twitter.com/Reed_QT)</li>
+<li>Twitter: <b>Reed_QT</b> (follow me https://twitter.com/Reed_QT)</li>
 
 <h3><b>Known Issues:</h3></b>
 None
