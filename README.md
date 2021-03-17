@@ -2,12 +2,10 @@
 
 <h3><b>About Hero Mode</b></h3>
 
-A reimagined The Thousand-Year Door Story with new elements and puzzles that
+A reimagined The Thousand-Year Door story with new elements and puzzles that
 comes with a harder difficulty, badges, and twist!
 
-Note: This mod is intended for "pro players" but can also be played
-by "casual players" too! So, with that being said. You don't need to superguard to win. 
-But I am intending to make an "easier" Hero Mode regardless.
+Note: Hero Mode is intended for "pro players" but can me also played by "casual players" too! 
 
 <h3><b>Credits</b></h2>
 
