@@ -40,10 +40,9 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 <h1></h1>
 
 <b>Note</b>: Hero Mode can work on the Gamecube's original hardware but
-I won't be covering on how to do that.
+I won't be covering that.
 
-This mod will not work on any other version of the game and will not
-work with any other of mod. (Sadly)
+This mod will not work on any other version of the game and no other mod of it. (Sadly)
 
 Now that you have all of the requirements, follow these steps.
 
