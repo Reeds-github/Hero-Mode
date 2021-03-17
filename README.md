@@ -23,11 +23,11 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <li><b>StarmanOmega</b> - Badge Icons, Status Icons, Reed Logo, TTYD Community Logo, and UI changes.</li>
 
-<li><b>PistonMiner</b> - REL Framework Documentation, TTYDASM, and RELLink. Tools can be found <a href="https://github.com/PistonMiner/ttyd-tools">Here</a>.</li>
+<li><b>PistonMiner</b> - REL Framework Documentation tools can be found <a href="https://github.com/PistonMiner/ttyd-tools">Here</a>.</li>
 
-<li><b>Jdaster</b> - Battle Documentation and for helping me understand battle functions.</li>
+<li><b>Jdaster</b> - <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and for helping me understand battle functions.</li>
 
-<li><b>Zephiles</b> - TTYD Practice Codes and Fast Text.</li>
+<li><b>Zephiles</b> - Used <a href="https://github.com/Zephiles/TTYD-Practice-Codes">TTYD practice codes</a> for testing and Fast Text.</li>
 
 <li><b>Ralf and Rainchu</b> - Airplane whenever code. (Thank you Rain for making it console compatible)</li>
 
