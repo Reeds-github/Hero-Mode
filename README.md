@@ -15,7 +15,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <ul><li><b>Reed</b> - Battle changes, Overworld changes, Text changes, Badge changes, Badge Icons, Item changes, Music, Character Model changes, UI changes, Animation changes, Enemy patterns, Title Screen Logo, Help me.</li>
   
-<li><b>JaThePlayer</b> - Battle changes, Extending REL size.</li>
+<li><b>JaThePlayer</b> - Some Battle changes, Extending REL size.</li>
 
 <li><b>Armaggedun, Crumple, and Pixelvideos</b> - Bangers aka Music</li>
   
