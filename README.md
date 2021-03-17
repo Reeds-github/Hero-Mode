@@ -3,7 +3,7 @@
 <h3><b>About Hero Mode</b></h3>
 
 A reimagined The Thousand-Year Door story with new elements and puzzles that
-comes with a harder difficulty, badges, and twist!
+comes with a harder difficulty, badges, and twist! (Two Chapter Demo with the Pit included)
 
 Hero Mode is intended for "professional players" but can be also played by "casual players" too! 
 With that being said, you don't need to superguard at all to beat Hero Mode. 
