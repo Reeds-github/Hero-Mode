@@ -50,13 +50,13 @@ Now that you have all of the requirements, follow these steps.
 
 <li>Download "Hero Mode v3 Demo.zip"</li>
 <li>Open up "<b>xdeltaUI.exe</b>"</li>
-<li>For "Patch" you're going to want to find the "<b>Demov3.xdelta</b>" file.</li>
+<li>For "Patch" you're going to want to find the "<b>Demo3.xdelta</b>" file.</li>
 <li>For "Source File" you want to locate the .ISO (<b>with the md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
-<li>For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.ISO</b>"
+<li>For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>"
 
 <h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait.</h3>
 
-<li>Put the "<b>game.iso</b>" in your SD/USB Device. (<b>SD Card\Games\[<b>Name This Folder Whatever</b>]\game.iso</b>)</li>
+<li>Put the "<b>game.iso</b>" in your SD/USB Device. (<b>SD Card\Games\<b>Hero Mode</b>\game.iso</b>)</li>
 <li>On Nintendont, make sure <b>CHEATS ARE OFF.</b></li>
 
 <h3>Load the mod and enjoy :)</h3>
@@ -65,14 +65,14 @@ Now that you have all of the requirements, follow these steps.
 
 <li>Download "Hero Mode v3 Demo.zip"</li>
 <li>Open up "<b>xdeltaUI.exe</b>"</li>
-<li>For "Patch" you're going to want to find the "<b>Demov3.xdelta</b>" file.</li>
+<li>For "Patch" you're going to want to find the "<b>Demo3.xdelta</b>" file.</li>
 <li>For "Source File" you want to locate the .ISO (<b>with the md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
-<li>For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.ISO</b>"
+<li>For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>"
 
 <h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait.</h3>
 
-<li>Put the "<b>game.iso</b>" where you will remember it.
 <li>On Dolphin, make sure <b>CHEATS ARE OFF.</b></li>
+<li>Locate the "<b>game.iso</b>" and open it in Dolphin
 
 <h3>Load the mod and enjoy :)</h3>
 <h1></h1>
