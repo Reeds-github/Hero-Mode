@@ -5,10 +5,12 @@
 A reimagined The Thousand-Year Door story with new elements and puzzles that
 comes with a harder difficulty, badges, and twist!
 
-Hero Mode is intended for "pro players" but can me also played by "casual players" too! 
+Hero Mode is intended for "professional players" but can be also played by "casual players" too! 
 With that being said, you don't need to superguard at all to beat Hero Mode. 
 
-I am still intending to make "Hero Mode Jr."
+I am still intending to make "Hero Mode Jr." for those who think It's still too hard.
+
+Lastly; this mod was inspired by "<p><a href="https://github.com/Brotenko/PMMasterQuest">Paper Mario: Master Quest</a></p>"
 <h3><b>Credits</b></h2>
 
 <ul><li><b>Reed</b> - Battle changes, Overworld changes, Text changes, Badge changes, Badge Icons, Item changes, Music, Character Model changes, UI changes, Animation changes, Enemy patterns, Title Screen Logo, Help me.</li>
