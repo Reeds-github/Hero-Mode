@@ -6,8 +6,8 @@ A reimagined The Thousand-Year Door story with new elements and puzzles that
 comes with a harder difficulty, badges, and twist!
 
 Side Note: Hero Mode is intended for "pro players" but can me also played by "casual players" too! 
-With that being said, You don't need to superguard to win. 
-But I am intending to make an "easier" Hero Mode regardless.
+With that being said, you don't need to superguard at all to beat Hero Mode. 
+I am still intending to make an "easier" Hero Mode regardless.
 <h3><b>Credits</b></h2>
 
 <ul><li><b>Reed</b> - Battle changes, Overworld changes, Text changes, Badge changes, Badge Icons, Item changes, Music, Character Model changes, UI changes, Animation changes, Enemy patterns, Title Screen Logo, Help me.</li>
