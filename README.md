@@ -5,7 +5,7 @@
 A reimagined The Thousand-Year Door story with new elements and puzzles that
 comes with a harder difficulty, badges, and twist!
 
-Note: Hero Mode is intended for "pro players" but can me also played by "casual players" too! 
+Side Note: Hero Mode is intended for "pro players" but can me also played by "casual players" too! 
 
 <h3><b>Credits</b></h2>
 
