@@ -27,7 +27,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <li><b>Jdaster</b> - <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and for helping me understand battle functions.</li>
 
-<li><b>Zephiles</b> - Used <a href="https://github.com/Zephiles/TTYD-Practice-Codes">TTYD practice codes</a> for testing and Fast Text.</li>
+<li><b>Zephiles</b> - Used <a href="https://github.com/Zephiles/TTYD-Practice-Codes">TTYD practice codes</a> for testing and Auto-Mash Text.</li>
 
 <li><b>Ralf and Rainchu</b> - Airplane whenever code. (Thank you Rain for making it console compatible)</li>
 
