@@ -23,7 +23,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <li><b>StarmanOmega</b> - Badge Icons, Status Icons, Reed Logo, TTYD Community Logo, and UI changes.</li>
 
-<li><b>PistonMiner</b> - REL Framework Documentation tools can be found <a href="https://github.com/PistonMiner/ttyd-tools">Here</a>.</li>
+<li><b>PistonMiner</b> - Used very helpful <a href="https://github.com/PistonMiner/ttyd-tools">REL Framework Documentation</a>.</li>
 
 <li><b>Jdaster</b> - <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and for helping me understand battle functions.</li>
 
