@@ -10,7 +10,7 @@ With that being said, you don't need to superguard at all to beat Hero Mode.
 
 I am still intending to make "Hero Mode Jr." for those who think It's still too hard.
 
-Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQuest">Paper Mario: Master Quest</a>" I have not fully beaten it myself but, from what I've seen... you could tell a lot of love went into it. Respect to Master Quest Devs.
+Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQuest">Paper Mario: Master Quest</a>." I have not fully beaten it myself but from what I've seen and played, you can tell a lot of love went into it. Respect to Master Quest Devs.
 <h3><b>Credits</b></h2>
 
 <ul><li><b>Reed</b> - Battle changes, Overworld changes, Text changes, Badge changes, Badge Icons, Item changes, Music, Character Model changes, UI changes, Animation changes, Enemy patterns, Title Screen Logo, Help me.</li>
