@@ -1,4 +1,4 @@
-<h2><b>Paper Mario: The Thousand-Year Door: Hero Mode Demo (v3.0) by Reed</b></font></h2>
+<h2><b>Paper Mario: The Thousand-Year Door: Hero Mode Demo (v3.0) by Reed (Not Released Yet)</b></font></h2>
 
 <h3><b>About Hero Mode</b></h3>
 
