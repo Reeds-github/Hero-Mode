@@ -25,7 +25,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <li><b>PistonMiner</b> - Used very helpful <a href="https://github.com/PistonMiner/ttyd-tools">REL Framework Documentation</a>.</li>
 
-<li><b>Jdaster</b> - For <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and helping me in general.</li>(Check out <a href="https://github.com/jdaster64/ttyd-infinite-pit">TTYD Infinite Pit</a>)
+<li><b>Jdaster</b> - For <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and helping me in general. (Check out <a href="https://github.com/jdaster64/ttyd-infinite-pit">TTYD Infinite Pit</a>)</li>
 
 <li><b>Zephiles</b> - Used <a href="https://github.com/Zephiles/TTYD-Practice-Codes">TTYD practice codes</a> for testing and Auto-Mash Text.</li>
 
@@ -76,7 +76,7 @@ Now that you have all of the requirements, follow these steps.
 
 <h3>Load the mod and enjoy :)</h3>
 <h1></h1>
-<h3><b>Need help? Contact Information</b></h2>
+<h3><b>Need help? Contact Me!</b></h2>
 
 <li>Discord: <b>Reed#6496</b> (or join my discord https://discord.gg/t8NXUUD)</li>
 
