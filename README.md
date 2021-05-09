@@ -29,7 +29,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <li><b>Zephiles</b> - Used <a href="https://github.com/Zephiles/TTYD-Practice-Codes">TTYD practice codes</a> for testing and Auto-Mash Text.</li>
 
-<li><b>Ralf and Rainchu</b> - Airplane whenever code. (Thank you Rain for making it console compatible)</li>
+<li><b>Ralf, Jdaster and Rainchu</b> - Airplane whenever code. (Thank Rain and JD for making it console compatible)</li>
 
 
 <h1>Before you do anything, make sure you have these things:</h1>
