@@ -13,10 +13,12 @@ I am still intending to make "Hero Mode Jr." for those who think It's still too 
 Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQuest">Paper Mario: Master Quest</a>." I have not fully beaten it myself but from what I've seen and played, you can tell a lot of love went into it. Respect to Master Quest Devs.
 <h3><b>Credits</b></h2>
 
-<ul><li><b>Reed</b> - Battle changes, Overworld changes, Text changes, Badge changes, Badge Icons, Item changes, Music, Character Model changes, UI changes, Animation changes, Enemy patterns, Title Screen Logo, Help me.</li>
-  
-<li><b>JaThePlayer</b> - Some Battle changes, Extending REL size.</li>
+<ul><li><b>Reed</b> - Battle changes, Overworld changes, Dialogue changes, Badge changes, Badge Icons, Item changes, Music, Character Models, UI changes, Animation, Enemy patterns, Title Screen Logo, Help me.</li>
 
+<li><b>Diagamma</b> - Battle Changes, Badge Changes, Making things easier for me (ty)</li>
+
+<li><b>Jdaster</b> - For <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and helping me in general. (Check out <a href="https://github.com/jdaster64/ttyd-infinite-pit">TTYD Infinite Pit</a>)</li>  
+  
 <li><b>Armaggedun, Crumple, and Pixelvideos</b> - Bangers aka Music.</li>
   
 <li><b>MuzYoshi</b> - Title Screen Character Art, Title Screen Logo, Reed and Vivian Models.</li>
@@ -25,11 +27,11 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <li><b>PistonMiner</b> - Used very helpful <a href="https://github.com/PistonMiner/ttyd-tools">REL Framework Documentation</a>.</li>
 
-<li><b>Jdaster</b> - For <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and helping me in general. (Check out <a href="https://github.com/jdaster64/ttyd-infinite-pit">TTYD Infinite Pit</a>)</li>
-
 <li><b>Zephiles</b> - Used <a href="https://github.com/Zephiles/TTYD-Practice-Codes">TTYD practice codes</a> for testing and Auto-Mash Text.</li>
 
 <li><b>Ralf, Jdaster and Rainchu</b> - Airplane whenever code. (Thank Rain and JD for making it console compatible)</li>
+  
+<li><b>JaThePlayer</b> - Some Battle changes, Extending REL size.</li>
 
 
 <h1>Before you do anything, make sure you have these things:</h1>
