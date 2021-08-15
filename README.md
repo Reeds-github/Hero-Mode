@@ -19,7 +19,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <li><b>Jdaster</b> - For <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and helping me in general. (Check out <a href="https://github.com/jdaster64/ttyd-infinite-pit">TTYD Infinite Pit</a>)</li>  
   
-<li><b>Armaggedun, Crumple, and Pixelvideos</b> - Bangers aka Music.</li>
+<li><b>Armaggedun, Crumple, Pixelvideos, Kai, and Metro Libra</b> - Bangers aka Music.</li>
   
 <li><b>MuzYoshi</b> - Title Screen Character Art, Title Screen Logo, Reed and Vivian Models.</li>
 
