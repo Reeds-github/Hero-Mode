@@ -15,7 +15,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <ul><li><b>Reed</b> - Battle, Overworld, Dialogue, Badges, Badge Icons, Items, Music, Character Models, UI, Animation, Enemy Attacks, Title Screen Logo, Help me.</li>
 
-<li><b>Diagamma</b> - My partner in crime, Emblem Menu, Made things easier for me. (ty)</li>
+<li><b>Diagamma</b> - My partner in crime, Emblem Menu, Made things easier for me. (Thank you)</li>
 
 <li><b>Jdaster</b> - For <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and helping me in general. (Check out <a href="https://github.com/jdaster64/ttyd-infinite-pit">TTYD Infinite Pit</a>)</li>  
   
