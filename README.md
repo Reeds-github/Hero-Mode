@@ -13,7 +13,7 @@ I am still intending to make "Hero Mode Jr." for those who think It's still too 
 Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQuest">Paper Mario: Master Quest</a>." I have not fully beaten it myself but from what I've seen and played, you can tell a lot of love went into it. Respect to Master Quest Devs.
 <h3><b>Credits</b></h2>
 
-<ul><li><b>Reed</b> - Battle, Overworld, Dialogue, Badges, Badge Icons, Items, Music, Character Models, UI, Animation, Enemy Attacks, Title Screen Logo, Help me.</li>
+<ul><li><b>Reed</b> - Battles, Overworld, Dialogue, Badges, Badge Icons, Items, Music, Character Models, UI, Animation, Enemy Attacks, Title Screen Logo, Help me.</li>
 
 <li><b>Diagamma</b> - My partner in crime, Emblem Menu, Made things easier for me. (Thank you)</li>
 
@@ -23,7 +23,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
   
 <li><b>MuzYoshi</b> - Title Screen Character Art, Title Screen Logo, and Vivian.</li>
 
-<li><b>StarmanOmega</b> - Badge Icons, Status Icons, Reed Logo, TTYD Community Logo, and some UI changes.</li>
+<li><b>StarmanOmega</b> - Badge Icons, Status Icons, Item Icons, Reed Logo, TTYD Community Logo, and some UI changes.</li>
 
 <li><b>PistonMiner</b> - Used very helpful <a href="https://github.com/PistonMiner/ttyd-tools">REL Framework Documentation</a>.</li>
 
