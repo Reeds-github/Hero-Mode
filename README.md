@@ -21,7 +21,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
   
 <li><b>MuzYoshi and StarmanOmega</b> - Graphic Design.</li>
   
-<li><b>Jdaster</b> - For <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and helping me in general. (Check out his<a href="https://github.com/jdaster64/ttyd-infinite-pit">TTYD Infinite Pit</a>)</li>  
+<li><b>Jdaster</b> - For <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and helping me in general. (Check out his <a href="https://github.com/jdaster64/ttyd-infinite-pit">TTYD Infinite Pit</a>)</li>  
 
 <li><b>PistonMiner</b> - Used his very helpful <a href="https://github.com/PistonMiner/ttyd-tools">REL Framework Documentation</a>.</li>
 
