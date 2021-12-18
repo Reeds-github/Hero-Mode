@@ -3,7 +3,7 @@
 <h3><b>About Hero Mode</b></h3>
 
 A reimagined The Thousand-Year Door story with new elements and puzzles that
-comes with harder difficulty, badges, and twist! (Two Chapter Demo with the Pit included)
+comes with harder difficulty, badges, and twist! (Two Chapter Demo with the Pit included.)
 
 Hero Mode is intended for "professional players only" but can be also played by "casual players" too! 
 With that being said, you don't need to superguard at all to beat Hero Mode. 
@@ -33,8 +33,8 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 <h1>Before you do anything, make sure you have these things:</h1>
 
 <li>A North American (US) Version of "<b>The Thousand-Year Door</b>" (<b>with a md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
-<li>A Softmodded Wii/Wii U that has Homebrew with Nintendont. (For Console)</li>
-<li>Any version of a Dolphin Emulator. (For PC)</li>
+<li>A Softmodded Wii/Wii U that has Homebrew with Nintendont. (For Console.)</li>
+<li>Any version of a Dolphin Emulator. (For PC.)</li>
 <h1></h1>
 
 <b>Note</b>: Hero Mode can work on the Gamecube's original hardware but
