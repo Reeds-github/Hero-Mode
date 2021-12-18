@@ -1,16 +1,16 @@
-<h2><b>Paper Mario: The Thousand-Year Door: Hero Mode Demo (v3.0) by Reed (Not Released Yet)</b></font></h2>
+<h2><b>Paper Mario: The Thousand-Year Door: Hero Mode Demo (v3.0) by Reed (Not Released Yet.)</b></font></h2>
 
 <h3><b>About Hero Mode</b></h3>
 
 A reimagined The Thousand-Year Door story with new elements and puzzles that
 comes with harder difficulty, badges, and twist! (Two Chapter Demo with the Pit included.)
 
-Hero Mode is intended for "professional players only" but can be also played by "casual players" too! 
+Hero Mode is intended for "professional players," but can be also played by "casual players" too! 
 With that being said, you don't need to superguard at all to beat Hero Mode. 
 
 I am still intending to make "Hero Mode Jr." for those who think It's still too hard.
 
-Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQuest">Paper Mario: Master Quest</a>." I have not fully beaten it myself but from what I've seen and played, you can tell a lot of love went into it. Respect to Master Quest Devs.
+Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQuest">Paper Mario: Master Quest</a>." I have not fully beaten it myself but from what I've seen and played, you can tell a lot of love went into it. Respect to Master Quest Devs and other Paper Mario mods out there.
 <h3><b>Credits</b></h2>
 
 <ul><li><b>Reed</b> - Balancing, Graphic Design, Dialogue, Battle Adjustments, Overworld Rearrangement, Music, Attack Patterns, etc.</li>
@@ -40,8 +40,10 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 <b>Note</b>: Hero Mode can work on the Gamecube's original hardware but
 I won't be covering that.
 
-This mod will not work on any other version of the game and no other mod of it. (Sadly)
+This mod will not work on any other version of the game and no other mod of it. (Sadly.)
 
+All of the dialogue in this mod are changed.
+  
 Now that you have all of the requirements, follow these steps.
 
 <b><h1>Installation for Wii/Wii U:</h1></b>
