@@ -37,10 +37,10 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 <li>Any version of a Dolphin Emulator. (For PC.)</li>
 <h1></h1>
 
-<b>Note</b>: Hero Mode can work on the Gamecube's original hardware but
+<b>Note</b>: Hero Mode can work on the Gamecube's original hardware, but
 I won't be covering that.
 
-This mod will not work on any other version of the game and no other mod of it. (Sadly.)
+This mod will not work on any other version of the game, and no other mod of it. (Sadly.)
 
 All of the dialogue in this mod has been changed.
   
