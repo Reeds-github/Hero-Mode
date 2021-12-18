@@ -42,7 +42,7 @@ I won't be covering that.
 
 This mod will not work on any other version of the game and no other mod of it. (Sadly.)
 
-All of the dialogue in this mod are changed.
+All of the dialogue in this mod has been changed.
   
 Now that you have all of the requirements, follow these steps.
 
