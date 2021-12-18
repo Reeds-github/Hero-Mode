@@ -15,7 +15,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <ul><li><b>Reed</b> - Balancing, Graphic Design, Dialogue, Battle Adjustments, Overworld Rearrangement, Music, Attack Patterns, etc.</li>
 
-<li><b>Diagamma</b> - My partner in crime, Code Monkey :). (Thank you)</li>
+<li><b>Diagamma</b> - My partner in crime, Code Monkey :) (Thank you so much.)</li>
 
 <li><b>Armaggedun, Crumple, Pixelvideos, Kai, & Metro Libra</b> - Music.</li>
   
