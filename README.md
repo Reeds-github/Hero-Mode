@@ -17,9 +17,9 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <li><b>Diagamma</b> - My partner in crime, Code Monkey :) (Thank you so much.)</li>
 
-<li><b>Armaggedun, Crumple, Pixelvideos, Kai, & Metro Libra</b> - Music.</li>
+<li><b>Armaggedun, Crumple, Pixelvideos, Kai, and Metro Libra</b> - Music.</li>
   
-<li><b>MuzYoshi & StarmanOmega</b> - Graphic Design.</li>
+<li><b>MuzYoshi and StarmanOmega</b> - Graphic Design.</li>
   
 <li><b>Jdaster</b> - For <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and helping me in general. (Check out <a href="https://github.com/jdaster64/ttyd-infinite-pit">TTYD Infinite Pit</a>)</li>  
 
@@ -27,7 +27,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <li><b>Zephiles</b> - Used <a href="https://github.com/Zephiles/TTYD-Practice-Codes">TTYD practice codes</a> for testing.</li>
 
-<li><b>Ralf, Rainchu, JaThePlayer</b> - For small miscellaneous work on Hero Mode, I appreciate you.</li>  
+<li><b>Ralf, Rainchu, and JaThePlayer</b> - For small miscellaneous work on Hero Mode, I appreciate you.</li>  
 
 
 <h1>Before you do anything, make sure you have these things:</h1>
