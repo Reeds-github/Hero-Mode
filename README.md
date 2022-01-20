@@ -85,4 +85,4 @@ Now that you have all of the requirements, follow these steps.
 
 <h3><b>Known Issues:</h3></b>
 A certain battle doesn't display HP Bar correctly.
-  
+A certain battle doesn't display Item Icon correctly.  
