@@ -84,6 +84,5 @@ Now that you have all of the requirements, follow these steps.
 <li>Twitter: <b>Reed_QT</b> (follow me https://twitter.com/Reed_QT)</li>
 
 <h3><b>Known Issues:</h3></b>
-Cannot open menu screen after Game Over.
 A certain battle doesn't display HP Bar correctly.
   
