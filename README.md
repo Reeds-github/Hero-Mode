@@ -49,7 +49,7 @@ A: There is no release date. It will come out when it’s ready.
   
   
 <li>Q: How can I get a US TTYD ISO?</li>
-A: You need a legal copy of TTYD (US) and a hacked wii, you can look up a guide on how to dump the rom from the disk. Google is your friend.
+A: You need a legal copy of TTYD (US) and a softmodded wii, you can look up a guide on how to dump the rom from the disk. Google is your friend.
 
   
 <li>Q: Can't I just download an ISO from the internet?</li>
