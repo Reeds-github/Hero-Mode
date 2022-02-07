@@ -32,8 +32,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <h2>Frequently asked questions</h2>
 
-Q: Why is V3 taking so long?
-  
+<li>Q: Why is V3 taking so long?</li>
 A: The scope of Hero Mode has increased vastly since development on V3 started, originally it was meant to be V2 with a few new tweaks, however it now also has many new songs, badges, story, skins, and even new mechanics!
 
   
