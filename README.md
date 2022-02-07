@@ -25,7 +25,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <li><b>PistonMiner</b> - Used his very helpful <a href="https://github.com/PistonMiner/ttyd-tools">REL Framework Documentation</a>.</li>
 
-<li><b>Zephiles</b> - Used his <a href="https://github.com/Zephiles/TTYD-Practice-Codes">TTYD practice codes</a> for testing.</li>
+<li><b>Zephiles</b> - Used his <a href="https://github.com/Zephiles/TTYD-Practice-Codes">TTYD Practice Codes</a> for testing.</li>
 
 <li><b>Ralf, Rainchu, and JaThePlayer</b> - For small miscellaneous work on Hero Mode, I appreciate you.</li>  
 
