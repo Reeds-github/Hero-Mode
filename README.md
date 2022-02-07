@@ -84,6 +84,6 @@ Now that you have all of the requirements, follow these steps.
 <li>Twitter: <b>Reed_QT</b> (follow me https://twitter.com/Reed_QT)</li>
 
 <h3><b>Known Issues:</h3></b>
-A certain battle doesn't display HP Bar correctly.
+A certain battle doesn't display the HP Bar correctly.
   
-A certain battle doesn't display Item Icon correctly.  
+A certain battle doesn't display the Item Icon correctly.  
