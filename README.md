@@ -36,7 +36,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 A: The scope of Hero Mode has increased vastly since development on V3 started, originally it was meant to be V2 with a few new tweaks, however it now also has many new songs, badges, story, skins, and even new mechanics!
 
   
-Q: How much does the demo change?
+<li>Q: How much does the demo change?</li>
   
 A: Once completed, the V3 demo will end after Chapter 2.
 
