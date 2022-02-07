@@ -53,11 +53,11 @@ A: You need a legal copy of TTYD (US) and a softmodded wii, you can look up a gu
 
   
 <li>Q: Can't I just download an ISO from the internet?</li>
-A: That is illegal! Don't do that.
+A: That is illegal! Do not do that.
   
   
 <li>Q: Can we see anything you're working on?</li>
-A: Yeah you can, in my discord: https://discord.gg/t8NXUUD 
+A: Yeah, in my discord: https://discord.gg/t8NXUUD 
 <h1></h1>
 
 
