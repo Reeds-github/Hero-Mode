@@ -35,28 +35,27 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 <li>Q: Why is V3 taking so long?</li>  
 <li>A: The scope of Hero Mode has increased vastly since development on V3 started, originally it was meant to be V2 with a few new tweaks, however it now also has many new songs, badges, story, skins, and even new mechanics!</li>
   
-<li>Q: How much does the demo change?</li>
-  
+<li>Q: How much does the demo change?</li>  
 <li>A: Once completed, the V3 demo will end after Chapter 2.</li>
+
   
-<li>Q: Will future updates of the demo add more chapters?</li>
-  
+<li>Q: Will future updates of the demo add more chapters?</li>  
 <li>A: No. if there's an update, it's likely to balance or fix something.</li>
 
-<li>Q: When will the demo / full game come out?</li>
   
+<li>Q: When will the demo / full game come out?</li>
 <li>A: There is no release date. It will come out when it’s ready.</li>
   
+  
 <li>Q: How can I get a US TTYD ISO?</li>
-
 <li>A: You need a legal copy of TTYD (US) and a hacked wii, you can look up a guide on how to dump the rom from the disk. Google is your friend.</li>  
 
-<li>Q: Can't I just download an ISO from the internet?</li>
   
+<li>Q: Can't I just download an ISO from the internet?</li>
 <li>A: That is illegal! Don't do that.</li>    
   
-<li>Q: Can we see anything you're working on?</li>
   
+<li>Q: Can we see anything you're working on?</li>
 <li>A: Yeah you can, in my discord: https://discord.gg/t8NXUUD</li>  
 <h1></h1>
 
