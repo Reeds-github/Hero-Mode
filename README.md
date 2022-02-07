@@ -33,18 +33,23 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 <h1>Frequently asked questions</h1>
 
 <li>Q: Why is V3 taking so long?
+  
 A: The scope of Hero Mode has increased vastly since development on V3 started, originally it was meant to be V2 with a few new tweaks, however it now also has many new songs, badges, story, skins, and even new mechanics!</li>
   
 <li>Q: How much does the demo change?
+  
 A: Once completed, the V3 demo will end after Chapter 2.</li>
   
 <li>Q: Will future updates of the demo add more chapters?
+  
 A: No. if there's an update, it's likely to balance or fix something.</li>
 
 <li>Q: When will the demo / full game come out?
+  
 A: There is no release date. It will come out when it’s ready.</li>
   
 <li>Q: Can we see anything you're working on?
+  
 A: Yeah you can, in my discord: https://discord.gg/t8NXUUD</li>  
 <h1></h1>
 
