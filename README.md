@@ -1,5 +1,5 @@
 <h2><b>Paper Mario: The Thousand-Year Door: Hero Mode (v3.0) by Reed (Not Released Yet.)</b></font></h2>
-![Hero Mode Logo HD](https://user-images.githubusercontent.com/73142432/202832872-7ee15162-9e71-4da3-a16f-83d6c9320539.png)
+<img src="https://user-images.githubusercontent.com/73142432/202832872-7ee15162-9e71-4da3-a16f-83d6c9320539.png" alt="Hero Mode Logo HD">
 
 <h3><b>About Hero Mode</b></h3>
 
