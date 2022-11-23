@@ -80,11 +80,11 @@ Now that you have all of the requirements, follow these steps.
 
 <b><h1>Installation for Wii/Wii U:</h1></b>
 
-<li>Download "Hero Mode v3 Demo.zip"</li>
-<li>Open up "<b>xdeltaUI.exe</b>"</li>
-<li>For "Patch" you're going to want to find the "<b>Demo3.xdelta</b>" file.</li>
-<li>For "Source File" you want to locate the .ISO (<b>with the md5 stated above</b>)</li>
-<li>For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>"
+<li>Download "<b>Hero Mode Demo.zip</b>" and extract everything.</li>
+<li>Open the "<b>xdeltaUI.exe</b>" from the "<b>DeltaPatcher</b>" folder.</li>
+<li>Click on "Patch" and select the "<b>HeroMode.xdelta</b>" file.</li>
+<li>Click on "Source File" and find a clean rip of a TTYD.iso (<b>with the md5 stated above</b>)</li>
+<li>Click on "Output File" choose a folder you will remember and save it as "<b>game.iso</b>"
 
 <h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait.</h3>
 
@@ -95,11 +95,11 @@ Now that you have all of the requirements, follow these steps.
 
 <b><h1>Installation for Dolphin:</h1></b>
 
-<li>Download "Hero Mode v3 Demo.zip"</li>
-<li>Open up "<b>xdeltaUI.exe</b>"</li>
-<li>For "Patch" you're going to want to find the "<b>Demo3.xdelta</b>" file.</li>
-<li>For "Source File" you want to locate the .ISO (<b>with the md5 stated above</b>)</li>
-<li>For "Output File" select a folder you will remember and <b>SAVE IT AS</b> "<b>game.iso</b>"
+<li>Download "<b>Hero Mode Demo.zip</b>" and extract everything.</li>
+<li>Open the "<b>xdeltaUI.exe</b>" from the "<b>DeltaPatcher</b>" folder.</li>
+<li>Click on "Patch" and select the "<b>HeroMode.xdelta</b>" file.</li>
+<li>Click on "Source File" and find a clean rip of a TTYD.iso (<b>with the md5 stated above</b>)</li>
+<li>Click on "Output File" choose a folder you will remember and save it as "<b>game.iso</b>"
 
 <h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait.</h3>
 
