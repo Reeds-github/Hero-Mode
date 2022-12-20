@@ -119,5 +119,4 @@ Now that you have all of the requirements, follow these steps.
 A certain battle doesn't display the HP Bar correctly.
   
 A certain battle doesn't display the Item Icon correctly.  
-
 Failing the Thwomp Quirk Quiz softlocks the game.
