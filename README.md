@@ -118,6 +118,6 @@ Now that you have all of the requirements, follow these steps.
 
 <li>Failing the Thwomp Quirk Quiz softlocks the game.</li>
 
-<li>A few enemies does not appear in the tattle book correctly.</li>
+<li>A few enemies do not appear in the tattle book correctly.</li>
 
 <li>One enemy has the wrong tattle description.</li>
