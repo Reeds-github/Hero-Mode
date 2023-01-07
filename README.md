@@ -116,7 +116,12 @@ Now that you have all of the requirements, follow these steps.
 <li>Twitter: <b>Reed_QT</b> (follow me https://twitter.com/Reed_QT)</li>
 
 <h3><b>Known Issues:</h3></b>
-A certain battle doesn't display the HP Bar correctly.
+<li>A certain battle doesn't display the HP Bar correctly.</li>
   
-A certain battle doesn't display the Item Icon correctly.  
-Failing the Thwomp Quirk Quiz softlocks the game.
+<li>A certain battle doesn't display the Item Icon correctly.</li>  
+
+<li>Failing the Thwomp Quirk Quiz softlocks the game.</li>
+
+<li>A few enemies does not appear in the tattle book correctly.</li>
+
+<li>One enemy has the wrong tattle description.</li>
