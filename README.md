@@ -60,7 +60,7 @@ A: Yeah, in my discord: https://discord.gg/t8NXUUD
 
 <li>A North American (US) Version of "<b>The Thousand-Year Door</b>" (<b>with a md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
 <li>A Softmodded Wii/Wii U that has Homebrew with Nintendont. (For Console.)</li>
-<li>Any version of a Dolphin Emulator. (For PC.)</li>
+<li>A Dolphin Emulator Version of 5.0 and up. (For PC.)</li>
 <h1></h1>
 
 <b>Note</b>: Hero Mode can work on the Gamecube's original hardware, but
