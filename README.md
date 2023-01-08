@@ -1,4 +1,4 @@
-<h2><b>Paper Mario: The Thousand-Year Door: Hero Mode (v3.0) by Reed (Not Released Yet.)</b></font></h2>
+<h2><b>Paper Mario: The Thousand-Year Door: Hero Mode (v3.0) by Reed</b></font></h2>
 <img src="https://user-images.githubusercontent.com/73142432/202832872-7ee15162-9e71-4da3-a16f-83d6c9320539.png" alt="Hero Mode Logo HD">
 
 <h3><b>About Hero Mode</b></h3>
@@ -16,17 +16,17 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <ul><li><b>Reed</b> - Balancing, Graphic Design, Dialogue, Battle Adjustments, Overworld Rearrangement, Music, Attack Patterns, etc.</li>
 
-<li><b>Armaggedun, Crumple, Pixelvideos, Kai, and Metro Libra</b> - Music.</li>
+<li><b>Armaggedun, Lord Crumple, PixelVideos, Kai, and Metro Libra</b> - Music.</li>
   
 <li><b>MuzYoshi and StarmanOmega</b> - Graphic Design.</li>
   
-<li><b>Jdaster</b> - For <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and helping me in general. (Check out his <a href="https://github.com/jdaster64/ttyd-infinite-pit">TTYD Infinite Pit</a>)</li>  
+<li><b>Jdaster</b> - For <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and helping me in general. (Check out their <a href="https://github.com/jdaster64/ttyd-infinite-pit">TTYD Infinite Pit</a>)</li>  
 
-<li><b>PistonMiner</b> - Used his very helpful <a href="https://github.com/PistonMiner/ttyd-tools">REL Framework Documentation</a>.</li>
+<li><b>PistonMiner</b> - Used their very helpful <a href="https://github.com/PistonMiner/ttyd-tools">REL Framework Documentation</a>.</li>
 
-<li><b>Zephiles</b> - Used his <a href="https://github.com/Zephiles/TTYD-Practice-Codes">TTYD Practice Codes</a> for testing.</li>
+<li><b>Zephiles</b> - Used their <a href="https://github.com/Zephiles/TTYD-Practice-Codes">TTYD Practice Codes</a> for debugging.</li>
 
-<li><b>Ralf, Rainchu, and JaThePlayer</b> - For small miscellaneous work on Hero Mode, I appreciate you.</li>  
+<li><b>Ralf, Rainchu, JaThePlayer, and Interesting938</b> - For small miscellaneous work on Hero Mode, I appreciate you.</li>  
 
 
 <h2>Frequently asked questions</h2>
