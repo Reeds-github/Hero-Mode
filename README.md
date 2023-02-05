@@ -112,17 +112,15 @@ Now that you have all of the requirements, follow these steps.
 <h3><b>Known Bugs:</h3></b>
 <li>A certain battle doesn't display the HP Bar correctly.</li>
 
-<li>A certain battle doesn't display the HP Bar correctly.</li>
-
 <li>A certain battle doesn't display the Item Icon correctly.</li>
 
-<li>Failing the Thwomp Quirk Quiz soft locks the game on console.</li>
+<li>Failing the Thwomp Quirk Quiz softlocks the game on console.</li>
 
 <li>Failing the Thwomp Quirk Quiz auto-wins on emulation.</li>
 
 <li>A few enemies do not appear in the tattle book correctly.</li>
 
-<li>One enemy has the wrong tattle description.</li>
+<li>One enemy in Hooktail Castle has the wrong enemy ID.</li>
 
 <li>Hooktail does not display the correct HP when going into phase 2.</li>
 
