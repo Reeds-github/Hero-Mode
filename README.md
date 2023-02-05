@@ -109,7 +109,7 @@ Now that you have all of the requirements, follow these steps.
 
 <li>Twitter: <b>Reed_QT</b> (follow me https://twitter.com/Reed_QT)</li>
 
-<h3><b>Known Issues:</h3></b>
+<h3><b>Known Bugs:</h3></b>
 <li>A certain battle doesn't display the HP Bar correctly.</li>
 
 <li>A certain battle doesn't display the HP Bar correctly.</li>
@@ -123,5 +123,7 @@ Now that you have all of the requirements, follow these steps.
 <li>A few enemies do not appear in the tattle book correctly.</li>
 
 <li>One enemy has the wrong tattle description.</li>
+
+<li>Hooktail does not display the correct HP when going into phase 2.</li>
 
 <li>The Tattle Book itself is not organized correctly.</li>
