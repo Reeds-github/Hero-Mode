@@ -1,4 +1,4 @@
-<h2><b>Paper Mario, The Thousand-Year Door: Hero Mode (v3.1) by Reed</b></font></h2>
+<h2><b>Paper Mario, The Thousand-Year Door: Hero Mode Demo (v3.1) by Reed</b></font></h2>
 <img src="https://user-images.githubusercontent.com/73142432/202832872-7ee15162-9e71-4da3-a16f-83d6c9320539.png" alt="Hero Mode Logo HD">
 
 <h3><b>About Hero Mode</b></h3>
