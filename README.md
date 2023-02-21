@@ -125,3 +125,5 @@ Now that you have all of the requirements, follow these steps.
 <li>Hooktail does not display the correct HP when going into phase 2.</li>
 
 <li>The Tattle Book itself is not organized correctly.</li>
+
+<li>Merlee lmao.</li>
