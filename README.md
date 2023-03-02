@@ -96,7 +96,6 @@ Now that you have all of the requirements, follow these steps.
 <h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait for completion.</h3>
 
 <li>Add "game.iso" to your Swiss storage device. (such as SDGecko)</li>
-<li>Boot up Nintendot, choose a storage device, press B to enter Settings and turn off Cheats.</li>
 <li>Boot up Swiss, Locate the "game.iso" in your storage device, press A to open the config screen,
 press Y on the config screen to view cheats and make sure the screen says "No Cheat Files Found." or disabled.</li>
 <li>If you do not turn off Cheats, parts of Hero Mode will not work properly.</li>
