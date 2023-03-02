@@ -63,10 +63,7 @@ A: Yeah, in my discord: https://discord.gg/t8NXUUD
 <li>A Dolphin Emulator Version of 5.0 and up. (For PC.)</li>
 <h1></h1>
 
-<b>Note</b>: Hero Mode can work on the Gamecube's original hardware, but
-I won't be covering that.
-
-This mod will not work on any other version of the game, and no other mod of it. (Sadly.)
+<b>Note</b>: This mod will not work on any other version of the game, and no other mod of it. (Sadly.)
 
 All of the dialogue in this mod has been changed.
   
@@ -74,34 +71,54 @@ Now that you have all of the requirements, follow these steps.
 
 <b><h1>Installation for Wii/Wii U:</h1></b>
 
-<li>Download "<b>Hero Mode Demo.zip</b>" and extract everything.</li>
+<li>Download "<b>Hero Mode Demo.zip</b>" and extract everything to any folder.</li>
 <li>Open the "<b>xdeltaUI.exe</b>" from the "<b>DeltaPatcher</b>" folder.</li>
 <li>Click on "Patch" and select the "<b>HeroMode.xdelta</b>" file.</li>
 <li>Click on "Source File" and find a clean rip of a TTYD.iso (<b>with the md5 stated above</b>)</li>
-<li>Click on "Output File" choose a folder you will remember and save it as "<b>game.iso</b>"
+<li>Click on "Output File" and choose a folder you will remember and save it as "<b>game.iso</b>"
 
-<h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait.</h3>
+<h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait for completion.</h3>
 
-<li>Put the "<b>game.iso</b>" in your SD/USB Device. (<b>SD Card\Games\Hero Mode\game.iso</b>)</li>
-<li>On Nintendont, make sure <b>CHEATS ARE OFF.</b></li>
+<li>Once it's done put "<b>game.iso</b>" in your SD/USB storage device. (<b>SD Card\Games\Hero Mode\game.iso</b>)</li>
+<li>Boot up Nintendot, choose a storage device, press B to enter Settings and turn off Cheats.</li>
+<li>If you do not turn off Cheats, parts of Hero Mode will not work properly.</li>
 
-<h3>Load the mod and enjoy :)</h3>
+<h3>Load the mod and enjoy.</h3>
+
+<b><h1>Installation for GameCube:</h1></b>
+
+<li>Download "<b>Hero Mode Demo.zip</b>" and extract everything to any folder.</li>
+<li>Open the "<b>xdeltaUI.exe</b>" from the "<b>DeltaPatcher</b>" folder.</li>
+<li>Click on "Patch" and select the "<b>HeroMode.xdelta</b>" file.</li>
+<li>Click on "Source File" and find a clean rip of a TTYD.iso (<b>with the md5 stated above</b>)</li>
+<li>Click on "Output File" and choose a folder you will remember and save it as "<b>game.iso</b>"
+
+<h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait for completion.</h3>
+
+<li>Add "game.iso" to your Swiss storage device. (such as SDGecko)</li>
+<li>Boot up Nintendot, choose a storage device, press B to enter Settings and turn off Cheats.</li>
+<li>Boot up Swiss, Locate the "game.iso" in your storage device, press A to open the config screen,
+press Y on the config screen to view cheats and make sure the screen says "No Cheat Files Found." or disabled.</li>
+<li>If you do not turn off Cheats, parts of Hero Mode will not work properly.</li>
+
+<h3>Load the mod and enjoy.</h3>
 
 <b><h1>Installation for Dolphin:</h1></b>
 
-<li>Download "<b>Hero Mode Demo.zip</b>" and extract everything.</li>
+<li>Download "<b>Hero Mode Demo.zip</b>" and extract everything to any folder.</li>
 <li>Open the "<b>xdeltaUI.exe</b>" from the "<b>DeltaPatcher</b>" folder.</li>
 <li>Click on "Patch" and select the "<b>HeroMode.xdelta</b>" file.</li>
 <li>Click on "Source File" and find a clean rip of a TTYD.iso (<b>with the md5 stated above</b>)</li>
-<li>Click on "Output File" choose a folder you will remember and save it as "<b>game.iso</b>"
+<li>Click on "Output File" and choose a folder you will remember and save it as "<b>game.iso</b>"
 
-<h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait.</h3>
+<h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait for completion.</h3>
 
-<li>On Dolphin, make sure <b>CUSTOM TEXTURES ARE OFF.</b></li>
-<li>On Dolphin, make sure <b>CHEATS ARE OFF.</b></li>
-<li>Locate the "<b>game.iso</b>" and open it in Dolphin
+<li>Open up Dolphin, press Config, go to the Advanced tab, and make sure "Load Custom Texutres" is unchecked.</li>
+<li>Open up the Settings, go to the General tab, and make sure "Enable Cheats" is unchecked.</li>
+<li>If you do not turn off Cheats, parts of Hero Mode will not work properly.</li>
+<li>Press Open and locate the "game.iso" to boot up Hero Mode.</li>
 
-<h3>Load the mod and enjoy :)</h3>
+<h3>Load the mod and enjoy.</h3>
 <h1></h1>
 <h3><b>Need help? Contact Me!</b></h2>
 
