@@ -1,4 +1,4 @@
-<h2><b>Paper Mario, The Thousand-Year Door: Hero Mode Demo (v3.1) by Reed</b></font></h2>
+<h2><b>Paper Mario, The Thousand-Year Door: Hero Mode Demo (v3.2) by Reed</b></font></h2>
 <img src="https://user-images.githubusercontent.com/73142432/202832872-7ee15162-9e71-4da3-a16f-83d6c9320539.png" alt="Hero Mode Logo HD">
 
 <h3><b>About Hero Mode</b></h3>
@@ -60,7 +60,8 @@ A: Yeah, in my discord: https://discord.gg/t8NXUUD
 
 <li>A North American (US) Version of "<b>The Thousand-Year Door</b>" (<b>with a md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
 <li>A Softmodded Wii/Wii U that has Homebrew with Nintendont. (For Console.)</li>
-<li>A Dolphin Emulator Version of 5.0 and up. (For PC.)</li>
+<li>A GameCube that has Action Replay with Swiss on it. (For Console.)</li>
+<li>A Development version of the Dolphin Emulator. (For PC.)</li>
 <h1></h1>
 
 <b>Note</b>: This mod will not work on any other version of the game, and no other mod of it. (Sadly.)
@@ -80,8 +81,8 @@ Now that you have all of the requirements, follow these steps.
 <h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait for completion.</h3>
 
 <li>Once it's done put "<b>game.iso</b>" in your SD/USB storage device. (<b>SD Card\Games\Hero Mode\game.iso</b>)</li>
-<li>Boot up Nintendot, choose a storage device, press B to enter Settings and turn off Cheats.</li>
-<li>If you do not turn off Cheats, parts of Hero Mode will not work properly.</li>
+<li>Boot up Nintendot, choose a storage device, press B to enter "Settings" and disable cheats.</li>
+<li>If you do not turn off cheats, parts of Hero Mode will not work properly.</li>
 
 <h3>Load the mod and enjoy.</h3>
 
@@ -95,10 +96,10 @@ Now that you have all of the requirements, follow these steps.
 
 <h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait for completion.</h3>
 
-<li>Add "game.iso" to your Swiss storage device. (such as SDGecko)</li>
-<li>Boot up Swiss, Locate the "game.iso" in your storage device, press A to open the config screen,
-press Y on the config screen to view cheats and make sure the screen says "No Cheat Files Found." or disabled.</li>
-<li>If you do not turn off Cheats, parts of Hero Mode will not work properly.</li>
+<li>Add the "game.iso" to your Swiss storage device. (such as SDGecko.)</li>
+<li>Boot up Swiss, Locate the "game.iso" in your storage device, open the config screen,
+view cheats and make sure the screen says "No Cheat Files Found." or disable the cheats.</li>
+<li>If you do not turn off cheats, parts of Hero Mode will not work properly.</li>
 
 <h3>Load the mod and enjoy.</h3>
 
@@ -112,10 +113,10 @@ press Y on the config screen to view cheats and make sure the screen says "No Ch
 
 <h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait for completion.</h3>
 
-<li>Open up Dolphin, press Config, go to the Advanced tab, and make sure "Load Custom Texutres" is unchecked.</li>
-<li>Open up the Settings, go to the General tab, and make sure "Enable Cheats" is unchecked.</li>
-<li>If you do not turn off Cheats, parts of Hero Mode will not work properly.</li>
-<li>Press Open and locate the "game.iso" to boot up Hero Mode.</li>
+<li>Open up Dolphin, press "Config", go to the "Advanced" tab, and make sure "Load Custom Texutres" is unchecked.</li>
+<li>Open up the "Settings", in the "General" tab make sure "Enable Cheats" is unchecked.</li>
+<li>If you do not turn off cheats, parts of Hero Mode will not work properly.</li>
+<li>Press "Open" and locate the "game.iso" to boot up Hero Mode.</li>
 
 <h3>Load the mod and enjoy.</h3>
 <h1></h1>
@@ -129,10 +130,6 @@ press Y on the config screen to view cheats and make sure the screen says "No Ch
 <li>A certain battle doesn't display the HP Bar correctly.</li>
 
 <li>A certain battle doesn't display the Item Icon correctly.</li>
-
-<li>Failing the Thwomp Quirk Quiz softlocks the game on console.</li>
-
-<li>Failing the Thwomp Quirk Quiz auto-wins on emulation.</li>
 
 <li>A few enemies do not appear in the tattle book correctly.</li>
 
