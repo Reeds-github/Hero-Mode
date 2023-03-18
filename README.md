@@ -96,7 +96,7 @@ Now that you have all of the requirements, follow these steps.
 
 <h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait for completion.</h3>
 
-<li>Add the "game.iso" to your Swiss storage device. (such as SDGecko.)</li>
+<li>Add the "game.iso" to your Swiss storage device. (such as SDGecko.) (SD Card\Games\Hero Mode\game.iso)</li>
 <li>Boot up Swiss, Locate the "game.iso" in your storage device, open the config screen,
 view cheats and make sure the screen says "No Cheat Files Found." or disable the cheats.</li>
 <li>If you do not turn off cheats, parts of Hero Mode will not work properly.</li>
