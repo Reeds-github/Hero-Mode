@@ -1,4 +1,4 @@
-<h2><b>Paper Mario, The Thousand-Year Door: Hero Mode Demo (v3.2) by Reed</b></font></h2>
+<h2><b>Paper Mario, The Thousand-Year Door: Hero Mode Demo (v3.3) by Reed</b></font></h2>
 <img src="https://github.com/Reeds-github/Hero-Mode/assets/73142432/3c242a7f-008e-428d-b5aa-db7da505a5ce.png" alt="Hero Mode Logo HD">
 
 <h3><b>About Hero Mode</b></h3>
@@ -18,7 +18,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <li><b>Armaggedun, Lord Crumple, PixelVideos, Kai, and Metro Libra</b> - Music.</li>
   
-<li><b>MuzYoshi and StarmanOmega</b> - Graphic Design.</li>
+<li><b>MuzYoshi, StarmanOmega, and Eevee</b> - Graphic Design.</li>
   
 <li><b>Jdaster</b> - For <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and helping me in general. (Check out their <a href="https://github.com/jdaster64/ttyd-infinite-pit">TTYD Infinite Pit</a>)</li>  
 
