@@ -1,22 +1,22 @@
-<h2><b>Paper Mario, The Thousand-Year Door: Hero Mode Demo (v3.3) by Reed</b></font></h2>
+<h2><b>Paper Mario TTYD: Hero Mode (v3.3 Demo) by Reed</b></font></h2>
 <img src="https://github.com/Reeds-github/Hero-Mode/assets/73142432/3c242a7f-008e-428d-b5aa-db7da505a5ce.png" alt="Hero Mode Logo HD">
 
 <h3><b>About Hero Mode</b></h3>
 
-A reimagined The Thousand-Year Door story with new elements and puzzles that
-comes with harder difficulty, badges, and twists!
+A reimagined The Thousand-Year Door story that comes with new puzzles,
+harder difficulty, badges, items, and more twists!
 
 Hero Mode is intended for "professional players," but can be also played by "casual players" too! 
-With that being said, you don't need to superguard at all to beat Hero Mode. 
+You DO NOT need to Superguard to beat Hero Mode. It's more of a strategic overhual on the battle system.
 
-I am still intending to make "Hero Mode Jr." for those who think It's still too hard.
+I am still intending to make "Hero Mode Jr." for those who just want to enjoy the ride.
 
 Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQuest">Paper Mario: Master Quest</a>." I have not fully beaten it myself but from what I've seen and played, you can tell a lot of love went into it. Respect to Master Quest Devs and other Paper Mario mods out there.
 <h3><b>Credits</b></h2>
 
-<ul><li><b>Reed</b> - Balancing, Graphic Design, Dialogue, Battle Adjustments, Overworld Rearrangement, Music, Attack Patterns, etc.</li>
+<ul><li><b>Reed</b> - Dialogue, Graphic Design, Balancing, OST, Battle Adjustments, Attack Patterns, Overworld Rearrangement, Playtester, etc.</li>
 
-<li><b>Armaggedun, Lord Crumple, PixelVideos, Kai, and Metro Libra</b> - Music.</li>
+<li><b>Lord Crumple, Armaggedun, PixelVideos, Metro Libra, Kai, The Tiberian Sons, Laz</b> - OST.</li>
   
 <li><b>MuzYoshi, StarmanOmega, and Eevee</b> - Graphic Design.</li>
   
@@ -31,16 +31,20 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <h2>Frequently asked questions</h2>
 
-<li>Q: Why did V3 take so long?</li> 
-A: The scope of Hero Mode has increased vastly since development on V3 started, originally it was meant to be V2 with a few new tweaks, however it now also has new songs, badges, story, skins, and new mechanics!
+<li>Q: Why did v3/v4 take so long?</li> 
+A: The scope of Hero Mode has increased vastly since development on v3 started, originally it was meant to be v2 with a few new tweaks, however it now has new songs, badges, story, skins, and new mechanics!
 
   
-<li>Q: How much does the demo change?</li>
-A: Once completed, the V3 demo will end after entering Chapter 2's pipe.
+<li>Q: How much does the demo change from the original game?</li>
+A: A lot. I can't really explain how much is added/reworked. Play Hero Mode.
+
+
+<li>Q: Where does the v3 demo end?</li>
+A: Once completed, the v3 demo will end after entering Chapter 2's pipe.
 
   
 <li>Q: Will future updates of the demo add more chapters?</li>
-A: Yes. Chapter 2, balances changes, and general bug fixes.
+A: No. The once Chapter 2 is completed, there will be no more demos.
 
   
 <li>Q: When will the demo / full game come out?</li>
@@ -48,7 +52,7 @@ A: There is no release date. It will come out when it’s ready.
   
   
 <li>Q: How can I get a US TTYD ISO?</li>
-A: You need a legal copy of TTYD (US) and a softmodded wii, you can look up a guide on how to dump the rom from the disc.
+A: You need a legal copy of TTYD (US) and a softmodded Wii, you can look up a guide on how to dump the rom from the disc.
   
   
 <li>Q: Can we see anything you're working on?</li>
@@ -56,18 +60,16 @@ A: Yeah, in my discord: https://discord.gg/t8NXUUD
 <h1></h1>
 
 
-<h1>Before anything, make sure you have these things:</h1>
+<h1>Before anything, you must read this:</h1>
 
-<li>A North American (US) Version of "<b>The Thousand-Year Door</b>" (<b>with a md5 of db9a997a617ee03bbc32336d6945ec02</b>)</li>
+<li>A North American (US) Version of "<b>The Thousand-Year Door</b>" (<b>with a MD5 Checksum of db9a997a617ee03bbc32336d6945ec02</b>)</li>
+<li>This mod will not work on any other version of the game, and no other mod of it. (Sadly.)</li>
 <li>A Softmodded Wii/Wii U that has Homebrew with Nintendont. (For Console.)</li>
 <li>A GameCube that has Action Replay with Swiss on it. (For Console.)</li>
 <li>A Development version of the Dolphin Emulator. (For PC.)</li>
+<li>.nkits, .elf, .dol, .gcr, .tgc, .wbfs, .ciso, .gcz, .wia, .rvz, .wad, .dff, and .m3u aren't compatiable with Hero Mode. </li>
 <h1></h1>
 
-<b>Note</b>: This mod will not work on any other version of the game, and no other mod of it. (Sadly.)
-
-All of the dialogue in this mod has been changed.
-  
 Now that you have all of the requirements, follow these steps.
 
 <b><h1>Installation for Wii/Wii U:</h1></b>
