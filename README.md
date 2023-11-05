@@ -44,7 +44,7 @@ A: Once completed, the v3 demo will end after entering Chapter 2's pipe.
 
   
 <li>Q: Will future updates of the demo add more chapters?</li>
-A: No. The once Chapter 2 is completed, there will be no more demos.
+A: No. Once Chapter 2 is completed, there will be no more demos.
 
   
 <li>Q: When will the demo / full game come out?</li>
