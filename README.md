@@ -16,7 +16,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <ul><li><b>Reed</b> - Dialogue, Graphic Design, Balancing, OST, Battle Adjustments, Attack Patterns, Overworld Rearrangement, Playtester, etc.</li>
 
-<li><b>Lord Crumple, Armaggedun, PixelVideos, Metro Libra, Kai, The Tiberian Sons, Laz</b> - OST.</li>
+<li><b>Lord Crumple, Armaggedun, PixelVideos, Metro Libra, Kai, The Tiberian Sons, Laz, and ElevenWAV</b> - OST.</li>
   
 <li><b>MuzYoshi, StarmanOmega, and Eevee</b> - Graphic Design.</li>
   
