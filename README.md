@@ -14,7 +14,7 @@ I am still intending to make "Hero Mode Jr." for those who just want to enjoy th
 Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQuest">Paper Mario: Master Quest</a>." I have not fully beaten it myself but from what I've seen and played, you can tell a lot of love went into it. Respect to Master Quest Devs and other Paper Mario mods out there.
 <h3><b>Credits</b></h2>
 
-<ul><li><b>Reed</b> - Dialogue, Graphic Design, Balancing, OST, Battle Adjustments, Attack Patterns, Overworld Rearrangement, Playtester, etc.</li>
+<ul><li><b>Reed</b> - Custom Events, Dialogue, Graphic Design, Balancing, OST, Battle Adjustments, Attack Patterns, Overworld Rearrangement, Playtester, etc.</li>
 
 <li><b>Lord Crumple, Armaggedun, PixelVideos, Metro Libra, Kai, The Tiberian Sons, Laz, and ElevenWAV</b> - OST.</li>
   
