@@ -19,6 +19,8 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 <li><b>Lord Crumple, Armaggedun, PixelVideos, Metro Libra, Kai, The Tiberian Sons, Laz, and ElevenWAV</b> - OST.</li>
   
 <li><b>MuzYoshi, StarmanOmega, and Eevee</b> - Graphic Design.</li>
+
+<li><b>Nyxolotl</b> - HD Texture Pack.</li>
   
 <li><b>Jdaster</b> - For <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and helping me in general. (Check out their <a href="https://github.com/jdaster64/ttyd-infinite-pit">TTYD Infinite Pit</a>)</li>  
 
