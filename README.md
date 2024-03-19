@@ -109,7 +109,6 @@ view cheats, and make sure the screen says "No Cheat Files Found." or disable th
 <li>If you do not turn off cheats, Hero Mode will not function properly.</li>
 <li>Press "Open" and locate the Hero Mode file to boot up the mod.</li>
 
-<h3>Load the mod and enjoy.</h3>
 <h1></h1>
 <h3><b>Need help? Contact Me!</b></h2>
 
@@ -119,5 +118,3 @@ view cheats, and make sure the screen says "No Cheat Files Found." or disable th
 
 <h3><b>Source Code:</h3></b>
 https://github.com/Reeds-github/hm-src
-
-<li>Merlee lmao.</li>
