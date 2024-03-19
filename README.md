@@ -78,7 +78,7 @@ The patcher will also require you to have a US Copy of Paper Mario: The Thousand
 <li>.iso, .ciso, .gcz, .nkit, .wia, and .rvz filetypes are compatiable with Hero Mode. </li>
 <h1></h1>
 
-<b><h1>Installation for Hero Mode:</h1></b>
+<b><h1>Installation for Hero Mode Patcher:</h1></b>
 
 <li>Download the latest version of Hero Mode Patcher and extract everything.</li>
 <li>Open the Hero Mode Patcher and select your Paper Mario: TTYD image file.</li>
