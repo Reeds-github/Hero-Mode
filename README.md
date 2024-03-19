@@ -1,4 +1,4 @@
-<h2><b>Paper Mario TTYD: Hero Mode (v3.3 Demo) by Reed</b></font></h2>
+<h2><b>Paper Mario TTYD: Hero Mode (v4.0.0 Demo) by Reed</b></font></h2>
 <img src="https://github.com/Reeds-github/Hero-Mode/assets/73142432/3c242a7f-008e-428d-b5aa-db7da505a5ce.png" alt="Hero Mode Logo HD">
 
 <h3><b>About Hero Mode</b></h3>
@@ -33,94 +33,81 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <h2>Frequently asked questions</h2>
 
-<li>Q: Why did v3/v4 take so long?</li> 
-A: The scope of Hero Mode has increased vastly since development on v3 started, originally it was meant to be v2 with a few new tweaks, however it now has new songs, badges, story, skins, and new mechanics!
-
-  
-<li>Q: How much does the demo change from the original game?</li>
-A: A lot. I can't really explain how much is added/reworked. Play Hero Mode.
-
-
-<li>Q: Where does the v3 demo end?</li>
-A: Once completed, the v3 demo will end after entering Chapter 2's pipe.
-
-  
-<li>Q: Will future updates of the demo add more chapters?</li>
-A: No. Once Chapter 2 is completed, there will be no more demos.
-
-  
-<li>Q: When will the demo / full game come out?</li>
-A: There is no release date. It will come out when it’s ready.
-  
-  
-<li>Q: How can I get a US TTYD ISO?</li>
-A: You need a legal copy of TTYD (US) and a softmodded Wii, you can look up a guide on how to dump the rom from the disc.
-  
-  
-<li>Q: Can we see anything you're working on?</li>
-A: Yeah, in my discord: https://discord.gg/t8NXUUD 
+<li>Q: Why does x Version take so long? Any Updates or New Stuff Coming?</li> 
 <h1></h1>
+A: Typically, modification of this level takes a lot of time to develop. Not only is there text being changed, but textures, items, badges, music, events, and a few other things are altered for Hero Mode. 
+Not to mention that when a release is made, there are often bugs, revisions, or changes made to accommodate constructive feedback or genuine errors that could be found in said version. 
 
+Note: Version 4 (Chapter 1+2+Pit) is the final version made public at this time, while the demo is still available, bug fixes may vary while support and focus is being put towards the main build of the project.
+<h1></h1> 
+<li>Q: How much does the demo change from the original release of Paper Mario: TTYD?</li>
+<h1></h1>
+A: There are significant changes. Badges, Battle Data, Tattles, Enemies, Combat, Music & Sound Effects. Think of it as an Ocarina of Time: Master Quest, but for TTYD.
+<h1></h1>
+<li>Q: When will the demo / full game come out?</li>
+<h1></h1>
+A: It currently will end right when you enter Glitzville. You should still be able to access the Pit of 100 Trials and a few other side content, but nothing more past that..
+<h1></h1>
+<li>Q: Will there be future updates to the demo?</li>
+<h1></h1>
+A: No, Chapter 2 will be the final chapter released for a demonstration. All further chapters will be released once the main build has been finalized. 
+<h1></h1>
+<li>Q: How do I get a US TTYD ISO?</li>
+<h1></h1>
+A: You will need to own a physical copy of the game and dump them using the application CleanRip.
+<h1></h1>  
+<li>Q: Can we see any updates or changes to Hero Mode?</li>
+<h1></h1>
+A: You can! Sometimes Reed will post updates every so often in: https://discord.gg/t8NXUUD 
+<h1></h1>
+<li>Q: My ISO isn’t working with the patcher, what’s wrong?</li>
+<h1></h1>
+A: Currently, the patcher only supports: .iso, .ciso, .gcz, .nkit, .wia, and .rvz, and works on these platforms: Windows, MAC and Linux.
+Any other file format is unsupported or will not work. 
+
+The patcher will also require you to have a US Copy of Paper Mario: The Thousand Year Door! You do not need to worry about an md5 checksum as the patcher properly supports revisions or any other changes to your iso.
+<h1></h1>
 
 <h1>Before anything, you must read this:</h1>
 
-<li>A North American (US) Version of "<b>The Thousand-Year Door</b>" (<b>with a MD5 Checksum of db9a997a617ee03bbc32336d6945ec02</b>)</li>
+<li>A North American (US) Version of "<b>The Thousand-Year Door</b>"
 <li>This mod will not work on any other version of the game, and no other mod of it. (Sadly.)</li>
 <li>A Softmodded Wii/Wii U that has Homebrew with Nintendont. (For Console.)</li>
 <li>A GameCube that has Action Replay with Swiss on it. (For Console.)</li>
-<li>A Development version of the Dolphin Emulator. (For PC.)</li>
-<li>.nkits, .elf, .dol, .gcr, .tgc, .wbfs, .ciso, .gcz, .wia, .rvz, .wad, .dff, and .m3u aren't compatiable with Hero Mode. </li>
+<li>An updated Development version of the Dolphin Emulator. (For PC.)</li>
+<li>.iso, .ciso, .gcz, .nkit, .wia, and .rvz filetypes are compatiable with Hero Mode. </li>
 <h1></h1>
 
-Now that you have all of the requirements, follow these steps.
+<b><h1>Installation for Hero Mode:</h1></b>
+
+<li>Download the latest version of Hero Mode Patcher and extract everything.</li>
+<li>Open the Hero Mode Patcher and select your Paper Mario: TTYD image file.</li>
+<li>Select any folder to be your Output, and save the Hero Mode image file.</li>
+<li>Press patch and the image file should be where you selected the folder.</li>
 
 <b><h1>Installation for Wii/Wii U:</h1></b>
 
-<li>Download "<b>Hero Mode Demo.zip</b>" and extract everything to any folder.</li>
-<li>Open the "<b>xdeltaUI.exe</b>" from the "<b>DeltaPatcher</b>" folder.</li>
-<li>Click on "Patch" and select the "<b>HeroMode.xdelta</b>" file.</li>
-<li>Click on "Source File" and find a clean rip of a TTYD.iso (<b>with the md5 stated above</b>)</li>
-<li>Click on "Output File" and choose a folder you will remember and save it as "<b>game.iso</b>"
-
-<h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait for completion.</h3>
-
-<li>Once it's done put "<b>game.iso</b>" in your SD/USB storage device. (<b>SD Card\Games\Hero Mode\game.iso</b>)</li>
-<li>Boot up Nintendot, choose a storage device, press B to enter "Settings" and disable cheats.</li>
-<li>If you do not turn off cheats, parts of Hero Mode will not work properly.</li>
-
-<h3>Load the mod and enjoy.</h3>
+<li>Name the image file to "game.iso" so that Nintendont can read it.</li>
+<li>Once it's done, put the image file in your SD/USB storage device. (<b>SD Card\Games\Hero Mode\game.iso</b>)</li>
+<li>Boot up Nintendot and choose a storage device, press B to enter "Settings" and disable any cheats.</li>
+<li>If you do not turn off cheats, Hero Mode will not function properly.</li>
+<li>Press B to go back to the file menu, and select the Hero Mode file.</li>
 
 <b><h1>Installation for GameCube:</h1></b>
 
-<li>Download "<b>Hero Mode Demo.zip</b>" and extract everything to any folder.</li>
-<li>Open the "<b>xdeltaUI.exe</b>" from the "<b>DeltaPatcher</b>" folder.</li>
-<li>Click on "Patch" and select the "<b>HeroMode.xdelta</b>" file.</li>
-<li>Click on "Source File" and find a clean rip of a TTYD.iso (<b>with the md5 stated above</b>)</li>
-<li>Click on "Output File" and choose a folder you will remember and save it as "<b>game.iso</b>"
-
-<h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait for completion.</h3>
-
-<li>Add the "game.iso" to your Swiss storage device. (such as SDGecko.) (SD Card\Games\Hero Mode\game.iso)</li>
-<li>Boot up Swiss, Locate the "game.iso" in your storage device, open the config screen,
-view cheats and make sure the screen says "No Cheat Files Found." or disable the cheats.</li>
-<li>If you do not turn off cheats, parts of Hero Mode will not work properly.</li>
-
-<h3>Load the mod and enjoy.</h3>
+<li>Rename the image file to "game.iso" so that Swiss can read it.</li>
+<li>Add the image file to your Swiss storage device. (Such as SDGecko.) (SD Card\Games\Hero Mode\game.iso)</li>
+<li>Boot up Swiss and locate the "game.iso" in your storage device, open the config screen,
+view cheats, and make sure the screen says "No Cheat Files Found." or disable the cheats.</li>
+<li>If you do not turn off cheats, Hero Mode will not function properly.</li>
 
 <b><h1>Installation for Dolphin:</h1></b>
 
-<li>Download "<b>Hero Mode Demo.zip</b>" and extract everything to any folder.</li>
-<li>Open the "<b>xdeltaUI.exe</b>" from the "<b>DeltaPatcher</b>" folder.</li>
-<li>Click on "Patch" and select the "<b>HeroMode.xdelta</b>" file.</li>
-<li>Click on "Source File" and find a clean rip of a TTYD.iso (<b>with the md5 stated above</b>)</li>
-<li>Click on "Output File" and choose a folder you will remember and save it as "<b>game.iso</b>"
-
-<h3>Once you press "patch" DO NOT TOUCH ANYTHING and wait for completion.</h3>
-
 <li>Open up Dolphin, press "Config", go to the "Advanced" tab, and make sure "Load Custom Texutres" is unchecked.</li>
-<li>Open up the "Settings", in the "General" tab make sure "Enable Cheats" is unchecked.</li>
-<li>If you do not turn off cheats, parts of Hero Mode will not work properly.</li>
-<li>Press "Open" and locate the "game.iso" to boot up Hero Mode.</li>
+<li>Hero Mode now has a HD texture pack that is a work in progress, so leave it checked if you want to use that.</li>
+<li>Open up the "Settings", and in the "General" tab make sure "Enable Cheats" is unchecked.</li>
+<li>If you do not turn off cheats, Hero Mode will not function properly.</li>
+<li>Press "Open" and locate the Hero Mode file to boot up the mod.</li>
 
 <h3>Load the mod and enjoy.</h3>
 <h1></h1>
@@ -130,17 +117,7 @@ view cheats and make sure the screen says "No Cheat Files Found." or disable the
 
 <li>Twitter: <b>Reed_QT</b> (follow me https://twitter.com/Reed_QT)</li>
 
-<h3><b>Known Bugs:</h3></b>
-<li>A certain battle doesn't display the HP Bar correctly.</li>
-
-<li>A certain battle doesn't display the Item Icon correctly.</li>
-
-<li>A few enemies do not appear in the tattle book correctly.</li>
-
-<li>One enemy in Hooktail Castle has the wrong enemy ID.</li>
-
-<li>Hooktail does not display the correct HP when going into phase 2.</li>
-
-<li>The Tattle Book itself is not organized correctly.</li>
+<h3><b>Source Code:</h3></b>
+https://github.com/Reeds-github/hm-src
 
 <li>Merlee lmao.</li>
