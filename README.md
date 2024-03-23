@@ -60,6 +60,10 @@ A: You will need to own a physical copy of the game and dump them using the appl
 <h1></h1>
 A: You can! Sometimes Reed will post updates every so often in: https://discord.gg/t8NXUUD 
 <h1></h1>
+<li>Q: Where can I download the HD Hero Mode Texture Pack?</li>
+<h1></h1>
+A: Right here: https://drive.google.com/file/d/1un29NF5rH4NZL2KoqlsuL_3t8uRvuQ0V/view?usp=sharing
+<h1></h1>
 <li>Q: My ISO isn’t working with the patcher, what’s wrong?</li>
 <h1></h1>
 A: Currently, the patcher only supports: .iso, .ciso, .gcz, .nkit, .wia, and .rvz, and works on these platforms: Windows, MAC and Linux.
@@ -105,7 +109,7 @@ view cheats, and make sure the screen says "No Cheat Files Found." or disable th
 
 <li>Open up Dolphin, press "Config", go to the "Advanced" tab, and make sure "Load Custom Texutres" is unchecked.</li>
 <li>Hero Mode now has a HD texture pack that is a work in progress, so leave it checked if you want to use that.</li>
-<li>Open up the "Settings", and in the "General" tab make sure "Enable Cheats" is unchecked.</li>
+<li>Open up the "Settings", and in the "General" tab and make sure "Enable Cheats" is unchecked.</li>
 <li>If you do not turn off cheats, Hero Mode will not function properly.</li>
 <li>Press "Open" and locate the Hero Mode file to boot up the mod.</li>
 
