@@ -120,5 +120,8 @@ view cheats, and make sure the screen says "No Cheat Files Found." or disable th
 
 <li>Twitter: <b>Reed_QT</b> (follow me https://twitter.com/Reed_QT)</li>
 
+<h3><b>HD Texture Pack:</h3></b>
+https://drive.google.com/file/d/1un29NF5rH4NZL2KoqlsuL_3t8uRvuQ0V/view?usp=sharing
+
 <h3><b>Source Code:</h3></b>
 https://github.com/Reeds-github/hm-src
