@@ -74,12 +74,12 @@ The patcher will also require you to have a US Copy of Paper Mario: The Thousand
 
 <h1>Before anything, you must read this:</h1>
 
-<li>A North American (US) Version of "<b>The Thousand-Year Door</b>"
+<li>A North American (US) Version of "The Thousand-Year Door" (need correct md5 if you're using xdelta)</b>"
 <li>This mod will not work on any other version of the game, and no other mod of it. (Sadly.)</li>
 <li>A Softmodded Wii/Wii U that has Homebrew with Nintendont. (For Console.)</li>
 <li>A GameCube that has Action Replay with Swiss on it. (For Console.)</li>
 <li>An updated Development version of the Dolphin Emulator. (For PC.)</li>
-<li>.iso, .ciso, .gcz, .nkit, .wia, and .rvz filetypes are compatiable with Hero Mode. </li>
+<li>.iso, .ciso, .gcz, .nkit, .wia, and .rvz filetypes are compatiable with Hero Mode Patcher.</li>
 <h1></h1>
 
 <b><h1>Installation for Hero Mode Patcher:</h1></b>
