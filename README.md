@@ -95,6 +95,9 @@ The patcher will also require you to have a US Copy of Paper Mario: The Thousand
 <li>Click on "Source File" and find a clean rip of a TTYD.iso (md5 of db9a997a617ee03bbc32336d6945ec02, US only)</li>
 <li>Click on "Output File" and choose a folder you will remember and save it as "game.iso"</li>
 <li>Once you press "patch" DO NOT TOUCH ANYTHING and wait for completion.</li>
+<b><h1></h1></b>
+
+<b><h1>MAKE SURE CHEATS ARE DISABLED ON YOUR RESPECTIVE EMULATOR</h1></b>
 
 <b><h1>Installation for Wii/Wii U:</h1></b>
 
