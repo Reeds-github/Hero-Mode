@@ -89,6 +89,13 @@ The patcher will also require you to have a US Copy of Paper Mario: The Thousand
 <li>Select any folder to be your Output, and save the Hero Mode image file.</li>
 <li>Press patch and the image file should be where you selected the folder.</li>
 
+<b><h1>Installation for xdelta Patcher:</h1></b>
+
+<li>Click on "Patch" and select the "HeroMode.xdelta" file.</li>
+<li>Click on "Source File" and find a clean rip of a TTYD.iso (md5 of db9a997a617ee03bbc32336d6945ec02, US only)</li>
+<li>Click on "Output File" and choose a folder you will remember and save it as "game.iso"</li>
+<li>Once you press "patch" DO NOT TOUCH ANYTHING and wait for completion.</li>
+
 <b><h1>Installation for Wii/Wii U:</h1></b>
 
 <li>Name the image file to "game.iso" so that Nintendont can read it.</li>
