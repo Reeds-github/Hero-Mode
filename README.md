@@ -1,4 +1,4 @@
-<h2><b>Paper Mario TTYD: Hero Mode (v4.0.2 Demo) by Reed</b></font></h2>
+<h2><b>Paper Mario TTYD: Hero Mode (v4.0.3 Demo) by Reed</b></font></h2>
 <img src="https://github.com/Reeds-github/Hero-Mode/assets/73142432/3c242a7f-008e-428d-b5aa-db7da505a5ce.png" alt="Hero Mode Logo HD">
 
 <h3><b>About Hero Mode</b></h3>
