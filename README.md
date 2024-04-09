@@ -69,7 +69,7 @@ A: Right here: https://drive.google.com/file/d/1un29NF5rH4NZL2KoqlsuL_3t8uRvuQ0V
 A: Currently, the patcher only supports: .iso, .ciso, .gcz, .nkit, .wia, and .rvz, and works on these platforms: Windows, MAC and Linux.
 Any other file format is unsupported or will not work. 
 
-The patcher will also require you to have a US Copy of Paper Mario: The Thousand Year Door! You do not need to worry about an md5 checksum as the patcher properly supports revisions or any other changes to your iso.
+The patcher will also require you to have a US Copy of Paper Mario: The Thousand Year Door! You do not need to worry about an md5 checksum as the patcher properly supports revisions or any other changes to your iso. (Unless you're using xdelta, you would need the md5 checksum of db9a997a617ee03bbc32336d6945ec02, US only)
 <h1></h1>
 
 <h1>Before anything, you must read this:</h1>
