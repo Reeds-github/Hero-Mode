@@ -97,7 +97,7 @@ The patcher will also require you to have a US Copy of Paper Mario: The Thousand
 <li>Once you press "patch" DO NOT TOUCH ANYTHING and wait for completion.</li>
 <b><h1></h1></b>
 
-<b><h1>MAKE SURE CHEATS ARE DISABLED ON YOUR RESPECTIVE EMULATOR</h1></b>
+<b><h1>MAKE SURE CHEATS ARE DISABLED ON YOUR RESPECTIVE EMULATOR OR CONSOLE!</h1></b>
 
 <b><h1>Installation for Wii/Wii U:</h1></b>
 
