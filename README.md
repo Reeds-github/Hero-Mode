@@ -74,7 +74,7 @@ The patcher will also require you to have a US Copy of Paper Mario: The Thousand
 
 <h1>Before anything, you must read this:</h1>
 
-<li>A North American (US) Version of "The Thousand-Year Door" (need correct md5 if you're using xdelta)</b>"
+<li>A North American (US) Version of "The Thousand-Year Door" (you'll need correct md5 if you're using xdelta)</b>
 <li>This mod will not work on any other version of the game, and no other mod of it. (Sadly.)</li>
 <li>A Softmodded Wii/Wii U that has Homebrew with Nintendont. (For Console.)</li>
 <li>A GameCube that has Action Replay with Swiss on it. (For Console.)</li>
