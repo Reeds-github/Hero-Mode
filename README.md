@@ -79,7 +79,7 @@ The patcher will also require you to have a US Copy of Paper Mario: The Thousand
 <li>A Softmodded Wii/Wii U that has Homebrew with Nintendont. (For Console.)</li>
 <li>A GameCube that has Action Replay with Swiss on it. (For Console.)</li>
 <li>An updated Development version of the Dolphin Emulator. (For PC.)</li>
-<li>.iso, .ciso, .gcz, .nkit, .wia, and .rvz filetypes are compatiable with Hero Mode Patcher.</li>
+<li>.iso, .ciso, .gcz, .nkit, .wia, and .rvz filetypes are compatiable with the Hero Mode Patcher.</li>
 <h1></h1>
 
 <b><h1>Installation for Hero Mode Patcher:</h1></b>
