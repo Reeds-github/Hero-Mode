@@ -60,6 +60,10 @@ A: You will need to own a physical copy of the game and dump them using the appl
 <h1></h1>
 A: You can! Sometimes Reed will post updates every so often in: https://discord.gg/t8NXUUD 
 <h1></h1>
+<li>Q: Where can I listen to the Hero Mode OST?</li>
+<h1></h1>
+A: Right here: https://www.youtube.com/playlist?list=PLFh1UzlzDx-MIGVK-WmsAHCgPP4FUhetP
+<h1></h1>
 <li>Q: Where can I download the HD Hero Mode Texture Pack?</li>
 <h1></h1>
 A: Right here: https://drive.google.com/file/d/1un29NF5rH4NZL2KoqlsuL_3t8uRvuQ0V/view?usp=sharing
