@@ -28,7 +28,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <li><b>Zephiles</b> - Used their <a href="https://github.com/Zephiles/TTYD-Practice-Codes">TTYD Practice Codes</a> for debugging.</li>
 
-<li><b>Jemaroo</b> - For their convenient <a href="https://drive.google.com/drive/folders/1z2JbiwJV0V0O5uIjVXVCDyew_t-efO6X">documentations</a>.</li>
+<li><b>Jemaroo</b> - For their <a href="https://drive.google.com/drive/folders/1z2JbiwJV0V0O5uIjVXVCDyew_t-efO6X">convenient documentations</a>.</li>
 
 <li><b>Ralf, Rainchu, JaThePlayer, and Interesting938</b> - For miscellaneous work on Hero Mode, I appreciate you.</li>  
 
