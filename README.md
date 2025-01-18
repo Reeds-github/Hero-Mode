@@ -22,13 +22,15 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <li><b>Nyxolotl</b> - HD Texture Pack.</li>
   
-<li><b>Jdaster</b> - For <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and helping me in general. (Check out their <a href="https://github.com/jdaster64/ttyd-infinite-pit">TTYD Infinite Pit</a>)</li>  
+<li><b>Jdaster64</b> - For <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and helping me in general. (Check out their TTYD <a href="https://github.com/jdaster64/ttyd-infinite-pit">Infinite Pit</a> and <a href="https://github.com/jdaster64/ttyd-tot">Tower of Trials</a> mod.)</li>  
 
 <li><b>PistonMiner</b> - Used their very helpful <a href="https://github.com/PistonMiner/ttyd-tools">REL Framework Documentation</a>.</li>
 
 <li><b>Zephiles</b> - Used their <a href="https://github.com/Zephiles/TTYD-Practice-Codes">TTYD Practice Codes</a> for debugging.</li>
 
-<li><b>Ralf, Rainchu, JaThePlayer, and Interesting938</b> - For small miscellaneous work on Hero Mode, I appreciate you.</li>  
+<li><b>Jemaroo</b> - For their convenient <a href="https://drive.google.com/drive/folders/1z2JbiwJV0V0O5uIjVXVCDyew_t-efO6X">documentations</a>.</li>
+
+<li><b>Ralf, Rainchu, JaThePlayer, and Interesting938</b> - For miscellaneous work on Hero Mode, I appreciate you.</li>  
 
 
 <h2>Frequently asked questions</h2>
@@ -130,7 +132,7 @@ view cheats, and make sure the screen says "No Cheat Files Found." or disable th
 <h1></h1>
 <h3><b>Need help? Contact Me!</b></h2>
 
-<li>Discord: <b>Reed#6496</b> (or join my discord https://discord.gg/t8NXUUD)</li>
+<li>Discord: <b>reed_qt</b> (or join my discord https://discord.gg/t8NXUUD)</li>
 
 <li>Twitter: <b>Reed_QT</b> (follow me https://twitter.com/Reed_QT)</li>
 
