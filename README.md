@@ -22,7 +22,7 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <li><b>TheCorey</b> - Custom Models.</li>
 
-<li><b>Nyxolotl</b> - HD Texture Pack (outdated, not recommended to use.)</li>
+<li><b>Nyxolotl</b> - HD Texture Pack. (outdated, not recommended to use.)</li>
   
 <li><b>Jdaster64</b> - For their <a href="https://github.com/jdaster64/ttyd-utils">Utility Documentation</a>. (Check out their TTYD <a href="https://github.com/jdaster64/ttyd-infinite-pit">Infinite Pit</a> and <a href="https://github.com/jdaster64/ttyd-tot">Tower of Trials</a> mods.)</li>
 
@@ -67,7 +67,7 @@ A: Right here: <a href="https://www.youtube.com/playlist?list=PLFh1UzlzDx-MIGVK-
 <h1></h1>
 <li>Q: Where can I download the HD Texture Pack for Hero Mode?</li>
 <h1></h1>
-A: Right here: <a href="https://drive.google.com/file/d/1un29NF5rH4NZL2KoqlsuL_3t8uRvuQ0V/view?usp=sharing">Hero Mode HD Texture Pack</a>.
+A: Right here: <a href="https://drive.google.com/file/d/1un29NF5rH4NZL2KoqlsuL_3t8uRvuQ0V/view?usp=sharing">Hero Mode HD Texture Pack</a>. (outdated, not recommended to use.)
 <h1></h1>
 
 <h1>Before anything, you must read this:</h1>
