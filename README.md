@@ -20,11 +20,13 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
   
 <li><b>MuzYoshi, StarmanOmega, and Eevee</b> - Graphic Design.</li>
 
-<li><b>Nyxolotl</b> - HD Texture Pack.</li>
-  
-<li><b>Jdaster64</b> - For <a href="https://github.com/jdaster64/ttyd-utils">Battle Documentation</a> and helping me in general. (Check out their TTYD <a href="https://github.com/jdaster64/ttyd-infinite-pit">Infinite Pit</a> and <a href="https://github.com/jdaster64/ttyd-tot">Tower of Trials</a> mod.)</li>  
+<li><b>TheCorey</b> - Custom Models.</li>
 
-<li><b>PistonMiner</b> - Used their very helpful <a href="https://github.com/PistonMiner/ttyd-tools">REL Framework Documentation</a>.</li>
+<li><b>Nyxolotl</b> - HD Texture Pack (outdated, not recommended to use.)</li>
+  
+<li><b>Jdaster64</b> - For their <a href="https://github.com/jdaster64/ttyd-utils">Utility Documentation</a>. (Check out their TTYD <a href="https://github.com/jdaster64/ttyd-infinite-pit">Infinite Pit</a> and <a href="https://github.com/jdaster64/ttyd-tot">Tower of Trials</a> mods.)</li>
+
+<li><b>PistonMiner</b> - Used their <a href="https://github.com/PistonMiner/ttyd-tools">REL Framework Documentation</a>.</li>
 
 <li><b>Zephiles</b> - Used their <a href="https://github.com/Zephiles/TTYD-Practice-Codes">TTYD Practice Codes</a> for debugging.</li>
 
@@ -35,40 +37,22 @@ Lastly; this mod was inspired by "<a href="https://github.com/Brotenko/PMMasterQ
 
 <h2>Frequently asked questions</h2>
 
-<li>Q: Why does x Version take so long? Any Updates or New Stuff Coming?</li> 
+<li>Q: Why do updates take so long?</li> 
 <h1></h1>
-A: Typically, modification of this level takes a lot of time to develop. Not only is there text being changed, but textures, items, badges, music, events, and a few other things are altered for Hero Mode. 
-Not to mention that when a release is made, there are often bugs, revisions, or changes made to accommodate constructive feedback or genuine errors that could be found in said version. 
-
-Note: Version 4 (Chapter 1+2+Pit) is the final version made public at this time, while the demo is still available, bug fixes may vary while support and focus is being put towards the main build of the project.
-<h1></h1> 
-<li>Q: How much does the demo change from the original release of Paper Mario: TTYD?</li>
+A: Typically, modification of this level takes a lot of time to develop. Not only is there text being changed, but textures, items, badges, music, events, and a few other things that are altered for Hero Mode. 
+Not to mention that when a release is made, there are often bugs, revisions, or changes made to accommodate constructive feedback or genuine errors that could be found in said version.
 <h1></h1>
-A: There are significant changes. Badges, Battle Data, Tattles, Enemies, Combat, Music & Sound Effects. Think of it as an Ocarina of Time: Master Quest, but for TTYD.
+<li>Q: When will the full version of Hero Mode come out?</li>
 <h1></h1>
-<li>Q: When will the demo / full game come out?</li>
-<h1></h1>
-A: It currently will end right when you enter Glitzville. You should still be able to access the Pit of 100 Trials and a few other side content, but nothing more past that..
-<h1></h1>
-<li>Q: Will there be future updates to the demo?</li>
-<h1></h1>
-A: No, Chapter 2 will be the final chapter released for a demonstration. All further chapters will be released once the main build has been finalized. 
+A: Right now I am working by chapter and will release Hero Mode chapter by chapter.
 <h1></h1>
 <li>Q: How do I get a US TTYD ISO?</li>
 <h1></h1>
 A: You will need to own a physical copy of the game and dump them using the application CleanRip.
 <h1></h1>  
-<li>Q: Can we see any updates or changes to Hero Mode?</li>
+<li>Q: Where can we see updates or changes to Hero Mode?</li>
 <h1></h1>
-A: You can! Sometimes Reed will post updates every so often in: https://discord.gg/t8NXUUD 
-<h1></h1>
-<li>Q: Where can I listen to the Hero Mode OST?</li>
-<h1></h1>
-A: Right here: https://www.youtube.com/playlist?list=PLFh1UzlzDx-MIGVK-WmsAHCgPP4FUhetP
-<h1></h1>
-<li>Q: Where can I download the HD Hero Mode Texture Pack?</li>
-<h1></h1>
-A: Right here: https://drive.google.com/file/d/1un29NF5rH4NZL2KoqlsuL_3t8uRvuQ0V/view?usp=sharing
+A: You can keep track of Hero Mode's progress in <a href="https://discord.gg/t8NXUUD">Reed's Discord</a> or the <a href="https://discord.gg/KctYtmW7zB">Star Haven Discord</a>.
 <h1></h1>
 <li>Q: My ISO isn’t working with the patcher, what’s wrong?</li>
 <h1></h1>
@@ -76,6 +60,14 @@ A: Currently, the patcher only supports: .iso, .ciso, .gcz, .nkit, .wia, and .rv
 Any other file format is unsupported or will not work. 
 
 The patcher will also require you to have a US Copy of Paper Mario: The Thousand Year Door! You do not need to worry about an md5 checksum as the patcher properly supports revisions or any other changes to your iso. (Unless you're using xdelta, you would need the md5 checksum of db9a997a617ee03bbc32336d6945ec02, US only)
+<h1></h1>
+<li>Q: Where can I listen to the Hero Mode OST?</li>
+<h1></h1>
+A: Right here: <a href="https://www.youtube.com/playlist?list=PLFh1UzlzDx-MIGVK-WmsAHCgPP4FUhetP">Hero Mode OST Playlist</a>.
+<h1></h1>
+<li>Q: Where can I download the HD Texture Pack for Hero Mode?</li>
+<h1></h1>
+A: Right here: <a href="https://drive.google.com/file/d/1un29NF5rH4NZL2KoqlsuL_3t8uRvuQ0V/view?usp=sharing">Hero Mode HD Texture Pack</a>.
 <h1></h1>
 
 <h1>Before anything, you must read this:</h1>
@@ -132,12 +124,5 @@ view cheats, and make sure the screen says "No Cheat Files Found." or disable th
 <h1></h1>
 <h3><b>Need help? Contact Me!</b></h2>
 
-<li>Discord: <b>reed_qt</b> (or join my discord https://discord.gg/t8NXUUD)</li>
-
-<li>Twitter: <b>Reed_QT</b> (follow me https://twitter.com/Reed_QT)</li>
-
-<h3><b>HD Texture Pack:</h3></b>
-https://drive.google.com/file/d/1un29NF5rH4NZL2KoqlsuL_3t8uRvuQ0V/view?usp=sharing
-
-<h3><b>Source Code:</h3></b>
-https://github.com/Reeds-github/hm-src
+<li>Discord: <b>reed_qt</b> (or join <a href="https://discord.gg/t8NXUUD">Reed's Discord</a>.)</li>
+<li>Twitter: <a href="https://x.com/Reed_QT">Reed_QT</a></li>
